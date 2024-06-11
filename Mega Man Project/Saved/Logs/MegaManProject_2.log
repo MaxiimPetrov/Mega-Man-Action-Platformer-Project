@@ -992,3 +992,239 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.11-22.44.33:093][  1]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Untitled_1_InstanceOf_/Engine/__ExternalObjects__/Maps/Templates/OpenWorld/E/5K/QFS06FTX0D1R8IW38Z9YLX which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
 [2024.06.11-22.44.33:093][  1]LogSourceControl: Uncontrolled asset enumeration finished in 0.26952 seconds (Found 6821 uncontrolled assets)
 [2024.06.11-22.44.33:173][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.06.11-22.46.26:495][811]LogDerivedDataCache: C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.11-22.46.28:028][811]LogSlate: Window 'New Level' being destroyed
+[2024.06.11-22.46.28:034][811]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.06.11-22.46.28:064][811]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.11-22.46.28:064][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.11-22.46.28:064][811]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2024.06.11-22.46.28:065][811]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.06.11-22.46.28:066][811]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.11-22.46.28:066][811]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.11-22.46.28:069][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.11-22.46.28:087][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.06.11-22.46.28:094][811]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2024.06.11-22.46.28:094][811]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.11-22.46.28:106][811]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.11-22.46.28:112][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.11-22.46.28:114][811]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.11-22.46.28:114][811]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2024.06.11-22.46.39:659][852]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.11-22.46.39:665][852]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.11-22.46.39:688][852]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.11-22.46.41:306][852]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2024.06.11-22.46.41:307][852]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.11-22.46.48:703][852]LogSlate: Window 'Save Level As' being destroyed
+[2024.06.11-22.46.48:761][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.06.11-22.46.48:769][852]LogPackageLocalizationCache: Processed 51 localized package path(s) for 1 prioritized culture(s) in 0.005850 seconds
+[2024.06.11-22.46.48:775][852]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Debug
+[2024.06.11-22.46.48:775][852]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/MAP_Debug623E3B8B41EA2066D5BDC8AAAA648532.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/MAP_Debug.umap'
+[2024.06.11-22.46.48:789][852]LogFileHelpers: Saving map 'MAP_Debug' took 0.080
+[2024.06.11-22.46.48:808][852]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.11-22.46.48:808][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.11-22.46.48:808][852]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.11-22.46.48:808][852]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.11-22.46.48:811][852]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.11-22.46.48:813][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.11-22.46.48:816][852]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_Debug'.
+[2024.06.11-22.46.48:816][852]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.11-22.46.48:828][852]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.11-22.46.48:832][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.11-22.46.48:837][852]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.11-22.46.48:837][852]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2024.06.11-22.46.48:873][852]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.11-22.46.48:873][852]LogContentValidation: Enabled validators:
+[2024.06.11-22.46.48:873][852]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.11-22.46.48:873][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.11-22.46.48:873][852]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.11-22.46.48:874][852]LogContentValidation: Display: Validating asset /Game/Maps/MAP_Debug.MAP_Debug
+[2024.06.11-22.46.48:874][852]AssetCheck: /Game/Maps/MAP_Debug Validating asset
+[2024.06.11-22.47.24:504][ 68]LogSlate: External Image Picker: DecompressImage failed
+[2024.06.11-22.47.41:334][427]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.11-22.48.00:814][888]LogSlate: Window 'Project Settings' being destroyed
+[2024.06.11-22.48.44:135][586]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.11-22.48.44:145][586]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.11-22.48.44:153][587]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.11-22.48.47:180][948]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2024.06.11-22.48.47:180][948]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.11-22.49.42:849][764]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/MI_ProcGrid.MI_ProcGrid
+[2024.06.11-22.49.42:879][764]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2024.06.11-22.49.42:906][764]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.06.11-22.50.31:166][321]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: ================================================
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Total job queries 185, among them cache hits 19 (10.27%), DDC hits 154 (83.24%), Duplicates 5 (2.70%)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Tracking 161 distinct input hashes that result in 146 distinct outputs (90.68%)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: RAM used: 5.17 MiB of 1.60 GiB budget. Usage: 0.32%
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Shaders Compiled: 7
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Average time worker was idle: 0.61 s
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.10 s
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Job execution time: average 0.62 s, max 1.02 s
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 1.11
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Shader code size: average 32.569 KiB, min 30.055 KiB, max 35.395 KiB
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.12 s
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Average processing rate: 3.30 jobs/sec
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Total thread time: 2.191 s
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Total thread preprocess time: 2.68 s
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Percentage time preprocessing: 122.29%
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Effective parallelization: 1.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.45 sec, max 0.47 sec, min 0.43 sec)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.34 sec, max 0.35 sec, min 0.33 sec)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.21 sec, max 0.24 sec, min 0.19 sec)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display:                    TVoxelizeVolumePS<VMode_Primitive_Sphere> (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 41.01% of total time (compiled    2 times, average 0.45 sec, max 0.47 sec, min 0.43 sec)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 31.05% of total time (compiled    2 times, average 0.34 sec, max 0.35 sec, min 0.33 sec)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.36% of total time (compiled    2 times, average 0.21 sec, max 0.24 sec, min 0.19 sec)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.58% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display:                          TVoxelizeVolumeGS<VMode_Object_Box> - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: === Material stats ===
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Materials Translated:    119
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Material Translation Only: 0.02 s (37%)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: Material Cache Hits: 28 (24%)
+[2024.06.11-22.50.32:783][463]LogShaderCompilers: Display: ================================================
+[2024.06.11-22.50.40:872][217]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.11-22.50.49:869][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.11-22.50.49:898][360]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/MI_ProcGrid] ([1] browsable assets)...
+[2024.06.11-22.50.49:937][360]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/MI_ProcGrid.MI_ProcGrid]
+[2024.06.11-22.50.49:937][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/MI_ProcGrid]
+[2024.06.11-22.50.49:946][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.06.11-22.50.55:387][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.11-22.50.55:410][360]LogSavePackage: Moving output files for package: /Game/Materials/MI_ProcGrid
+[2024.06.11-22.50.55:410][360]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/MI_ProcGrid677EA2B746F5761F311CE9B30ECD7988.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Materials/MI_ProcGrid.uasset'
+[2024.06.11-22.50.55:418][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.54 sec
+[2024.06.11-22.50.55:448][360]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.11-22.50.55:448][360]LogContentValidation: Enabled validators:
+[2024.06.11-22.50.55:448][360]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.11-22.50.55:448][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.11-22.50.55:448][360]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.11-22.50.55:448][360]LogContentValidation: Display: Validating asset /Game/Materials/MI_ProcGrid.MI_ProcGrid
+[2024.06.11-22.50.55:448][360]AssetCheck: /Game/Materials/MI_ProcGrid Validating asset
+[2024.06.11-22.50.59:007][705]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.06.11-22.51.12:154][167]LogSlate: External Image Picker: DecompressImage failed
+[2024.06.11-22.53.32:788][ 91]LogShaderCompilers: Display: ================================================
+[2024.06.11-22.53.32:788][ 91]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.11-22.53.32:788][ 91]LogShaderCompilers: Display: Total job queries 215, among them cache hits 22 (10.23%), DDC hits 154 (71.63%), Duplicates 5 (2.33%)
+[2024.06.11-22.53.32:788][ 91]LogShaderCompilers: Display: Tracking 188 distinct input hashes that result in 172 distinct outputs (91.49%)
+[2024.06.11-22.53.32:788][ 91]LogShaderCompilers: Display: RAM used: 6.08 MiB of 1.60 GiB budget. Usage: 0.37%
+[2024.06.11-22.53.32:788][ 91]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.11-22.53.32:788][ 91]LogShaderCompilers: Display: Shaders Compiled: 34
+[2024.06.11-22.53.32:788][ 91]LogShaderCompilers: Display: Jobs assigned 34, completed 34 (100%)
+[2024.06.11-22.53.32:788][ 91]LogShaderCompilers: Display: Average time worker was idle: 17.76 s
+[2024.06.11-22.53.32:788][ 91]LogShaderCompilers: Display: Time job spent in pending queue: average 1.21 s, longest 3.82 s
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Job execution time: average 1.79 s, max 3.59 s
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Job life time (pending + execution): average 3.00 s, max 5.24
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Shader code size: average 49.39 KiB, min 30.055 KiB, max 68.699 KiB
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.40 s
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Average processing rate: 4.60 jobs/sec
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Total thread time: 44.683 s
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Total thread preprocess time: 3.234 s
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Percentage time preprocessing: 7.24%
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Effective parallelization: 6.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 2.50 sec, max 2.50 sec, min 2.50 sec)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 2.43 sec, max 2.43 sec, min 2.43 sec)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display:        TBasePassCSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 2.37 sec, max 2.37 sec, min 2.37 sec)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.36 sec, max 2.36 sec, min 2.36 sec)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display:       TBasePassCSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 2.35 sec, max 2.35 sec, min 2.35 sec)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.89% of total time (compiled    2 times, average 1.99 sec, max 2.05 sec, min 1.92 sec)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.12% of total time (compiled    3 times, average 0.91 sec, max 1.84 sec, min 0.43 sec)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.83% of total time (compiled    2 times, average 1.30 sec, max 1.80 sec, min 0.81 sec)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy - 5.60% of total time (compiled    1 times, average 2.50 sec, max 2.50 sec, min 2.50 sec)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy - 5.44% of total time (compiled    1 times, average 2.43 sec, max 2.43 sec, min 2.43 sec)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: === Material stats ===
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Materials Translated:    119
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Material Translation Only: 0.02 s (37%)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: Material Cache Hits: 28 (24%)
+[2024.06.11-22.53.32:789][ 91]LogShaderCompilers: Display: ================================================
+[2024.06.11-22.54.11:793][227]LogSlate: Window 'Project Settings' being destroyed
+[2024.06.11-22.54.11:798][227]LogSlate: Window 'Project Settings' being destroyed
+[2024.06.11-22.54.22:926][370]Cmd: CLOSE_SLATE_MAINFRAME
+[2024.06.11-22.54.22:930][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.06.11-22.54.25:944][370]LogSlate: Window 'Save Content' being destroyed
+[2024.06.11-22.54.25:950][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.11-22.54.25:998][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.11-22.54.26:004][370]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Debug
+[2024.06.11-22.54.26:005][370]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/MAP_DebugEA05562745EE6596659407AA379CC508.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/MAP_Debug.umap'
+[2024.06.11-22.54.26:012][370]LogFileHelpers: Saving map 'MAP_Debug' took 0.040
+[2024.06.11-22.54.26:018][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.408 ms (total: 5.61 sec)
+[2024.06.11-22.54.26:040][370]LogStall: Shutdown...
+[2024.06.11-22.54.26:045][370]LogStall: Shutdown complete.
+[2024.06.11-22.54.26:057][370]LogSlate: Window 'MI_ProcGrid' being destroyed
+[2024.06.11-22.54.26:072][370]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.11-22.54.26:072][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.11-22.54.26:112][370]LogSlate: Window 'Plugins' being destroyed
+[2024.06.11-22.54.26:115][370]LogSlate: Window 'MegaManProject - Unreal Editor' being destroyed
+[2024.06.11-22.54.26:159][371]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.11-22.54.26:159][371]LogContentValidation: Enabled validators:
+[2024.06.11-22.54.26:159][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.11-22.54.26:159][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.11-22.54.26:159][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.11-22.54.26:159][371]LogContentValidation: Display: Validating asset /Game/Maps/MAP_Debug.MAP_Debug
+[2024.06.11-22.54.26:159][371]AssetCheck: /Game/Maps/MAP_Debug Validating asset
+[2024.06.11-22.54.26:165][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.11-22.54.26:176][371]Cmd: QUIT_EDITOR
+[2024.06.11-22.54.26:176][372]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.06.11-22.54.26:181][372]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.06.11-22.54.26:182][372]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.06.11-22.54.26:182][372]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.06.11-22.54.26:182][372]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.11-22.54.26:182][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.11-22.54.26:182][372]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.11-22.54.26:182][372]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.11-22.54.26:189][372]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.06.11-22.54.26:190][372]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.06.11-22.54.26:190][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.11-22.54.26:190][372]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.11-22.54.26:190][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.11-22.54.26:190][372]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.11-22.54.26:190][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.11-22.54.26:280][372]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.06.11-22.54.26:284][372]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.06.11-22.54.26:284][372]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.06.11-22.54.26:284][372]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.06.11-22.54.26:285][372]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.06.11-22.54.26:285][372]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.06.11-22.54.26:285][372]LogAudio: Display: Audio Device unregistered from world 'MAP_Debug'.
+[2024.06.11-22.54.26:285][372]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.06.11-22.54.26:285][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.11-22.54.26:286][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.11-22.54.26:290][372]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.06.11-22.54.26:290][372]LogAudio: Display: Audio Device Manager Shutdown
+[2024.06.11-22.54.26:291][372]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.06.11-22.54.26:295][372]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.06.11-22.54.26:295][372]LogExit: Preparing to exit.
+[2024.06.11-22.54.26:305][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.06.11-22.54.26:784][372]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.06.11-22.54.26:795][372]LogExit: Editor shut down
+[2024.06.11-22.54.26:797][372]LogExit: Transaction tracking system shut down
+[2024.06.11-22.54.26:857][372]LogExit: Object subsystem successfully closed.
+[2024.06.11-22.54.26:940][372]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.06.11-22.54.27:575][372]MemoryProfiler: Shutdown
+[2024.06.11-22.54.27:575][372]NetworkingProfiler: Shutdown
+[2024.06.11-22.54.27:575][372]LoadingProfiler: Shutdown
+[2024.06.11-22.54.27:575][372]TimingProfiler: Shutdown
+[2024.06.11-22.54.27:818][372]LogOpenImageDenoise: OIDN shutting down
+[2024.06.11-22.54.28:064][372]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.06.11-22.54.28:079][372]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.06.11-22.54.28:079][372]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B489F4C42-4ABC-B022-37DF-5C869E68FE0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.2-33871570%2B%2B%2BUE5%2BRelease-5.4&UserID=dc358aec4587eba95ef970a48ebcc401%7C8499b50572d7436280fde2e2b3450fe3%7C1fcbecdb-6cd4-4b81-9584-77b4b49fb2a2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.06.11-22.54.28:119][372]RenderDocPlugin: plugin has been unloaded.
+[2024.06.11-22.54.28:121][372]LogPakFile: Destroying PakPlatformFile
+[2024.06.11-22.54.28:235][372]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.06.11-22.54.28:408][372]LogExit: Exiting.
+[2024.06.11-22.54.28:422][372]Log file closed, 06/11/24 18:54:28

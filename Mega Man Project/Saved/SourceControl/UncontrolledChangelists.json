@@ -141,7 +141,9 @@
 				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Slide_0_aseprite.uasset",
 				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite.uasset",
 				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite.uasset",
-				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player.uasset"
+				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Input/Actions/IA_Move.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Input/Actions/IA_Jump.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Input/IMC_Action.uasset"
 			]
 		}
 	]

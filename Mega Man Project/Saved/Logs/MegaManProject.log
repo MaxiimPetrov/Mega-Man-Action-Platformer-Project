@@ -1974,3 +1974,382 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.12-01.43.23:270][188]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/tileset-2.tileset-2
 [2024.06.12-01.43.23:270][188]AssetCheck: /Game/PaperAssets/Environment/tileset-2 Validating asset
 [2024.06.12-01.43.30:992][ 28]LogSlate: Window '13 Texture2D Objects - Property Matrix Editor' being destroyed
+[2024.06.12-01.47.40:491][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.06.12-01.47.40:494][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.012
+[2024.06.12-01.47.40:495][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Fx/explosion/explosion] ([1] browsable assets)...
+[2024.06.12-01.47.40:495][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/explosion/explosion]
+[2024.06.12-01.47.40:496][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/explosion/explosion_Auto2
+[2024.06.12-01.47.40:496][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/explosion_Auto2BF30AB15407034F95D67E0863F062716.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/explosion/explosion_Auto2.uasset'
+[2024.06.12-01.47.40:498][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite] ([1] browsable assets)...
+[2024.06.12-01.47.40:501][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite.explosion__Loop_0_aseprite]
+[2024.06.12-01.47.40:501][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite]
+[2024.06.12-01.47.40:502][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite_Auto2
+[2024.06.12-01.47.40:502][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/explosion__Loop_0_aseprite_Auto29974633C4BC24B23DE20D6AB531306DC.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite_Auto2.uasset'
+[2024.06.12-01.47.40:503][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite] ([1] browsable assets)...
+[2024.06.12-01.47.40:505][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite.explosion__Loop_1_aseprite]
+[2024.06.12-01.47.40:505][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite]
+[2024.06.12-01.47.40:507][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite_Auto2
+[2024.06.12-01.47.40:507][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/explosion__Loop_1_aseprite_Auto26FD5B5404B6F97A847D49BB7ED556E56.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite_Auto2.uasset'
+[2024.06.12-01.47.40:508][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite] ([1] browsable assets)...
+[2024.06.12-01.47.40:512][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite.explosion__Loop_2_aseprite]
+[2024.06.12-01.47.40:512][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite]
+[2024.06.12-01.47.40:512][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite_Auto2
+[2024.06.12-01.47.40:513][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/explosion__Loop_2_aseprite_Auto2ECC874514EC762B8C769B7894EF0E1D1.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite_Auto2.uasset'
+[2024.06.12-01.47.40:514][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite] ([1] browsable assets)...
+[2024.06.12-01.47.40:517][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite.explosion__Loop_3_aseprite]
+[2024.06.12-01.47.40:517][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite]
+[2024.06.12-01.47.40:518][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite_Auto2
+[2024.06.12-01.47.40:518][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/explosion__Loop_3_aseprite_Auto250E575CE497135A2F272FF81AEADC2A7.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite_Auto2.uasset'
+[2024.06.12-01.47.40:520][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Fx/fireball/fireball] ([1] browsable assets)...
+[2024.06.12-01.47.40:520][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/fireball/fireball]
+[2024.06.12-01.47.40:521][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/fireball/fireball_Auto2
+[2024.06.12-01.47.40:521][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/fireball_Auto20B5126A34F17042183EEA99461C85CEC.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/fireball/fireball_Auto2.uasset'
+[2024.06.12-01.47.40:522][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase] ([1] browsable assets)...
+[2024.06.12-01.47.40:524][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase.fireball__Loop_0_ase]
+[2024.06.12-01.47.40:524][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase]
+[2024.06.12-01.47.40:524][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase_Auto2
+[2024.06.12-01.47.40:524][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/fireball__Loop_0_ase_Auto21F752AE94D648919500644B183ACF981.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase_Auto2.uasset'
+[2024.06.12-01.47.40:527][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase] ([1] browsable assets)...
+[2024.06.12-01.47.40:528][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase.fireball__Loop_1_ase]
+[2024.06.12-01.47.40:529][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase]
+[2024.06.12-01.47.40:530][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase_Auto2
+[2024.06.12-01.47.40:530][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/fireball__Loop_1_ase_Auto288B1B3AE4F17A358F70E03A8F53EBC48.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase_Auto2.uasset'
+[2024.06.12-01.47.40:531][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase] ([1] browsable assets)...
+[2024.06.12-01.47.40:534][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase.fireball__Loop_2_ase]
+[2024.06.12-01.47.40:534][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase]
+[2024.06.12-01.47.40:534][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase_Auto2
+[2024.06.12-01.47.40:534][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/fireball__Loop_2_ase_Auto22E99AB0B45794667BE98F5A7AAB49A0A.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase_Auto2.uasset'
+[2024.06.12-01.47.40:536][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase] ([1] browsable assets)...
+[2024.06.12-01.47.40:537][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase.fireball__Loop_3_ase]
+[2024.06.12-01.47.40:537][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase]
+[2024.06.12-01.47.40:538][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase_Auto2
+[2024.06.12-01.47.40:538][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/fireball__Loop_3_ase_Auto2A9FF6561403C38FB924634866209BD34.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase_Auto2.uasset'
+[2024.06.12-01.47.40:540][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Fx/player-shoot/player-shoot] ([1] browsable assets)...
+[2024.06.12-01.47.40:540][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot/player-shoot]
+[2024.06.12-01.47.40:540][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot/player-shoot_Auto2
+[2024.06.12-01.47.40:540][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot_Auto290E182AB46B9164CE46A29806586FEB3.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot/player-shoot_Auto2.uasset'
+[2024.06.12-01.47.40:542][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase] ([1] browsable assets)...
+[2024.06.12-01.47.40:545][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase.player-shoot_____Loop_0_ase]
+[2024.06.12-01.47.40:545][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase]
+[2024.06.12-01.47.40:547][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase_Auto2
+[2024.06.12-01.47.40:547][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot_____Loop_0_ase_Auto30C0221F496BBCB828D57596A24263D8.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase_Auto2.uasset'
+[2024.06.12-01.47.40:548][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase] ([1] browsable assets)...
+[2024.06.12-01.47.40:550][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase.player-shoot_____Loop_1_ase]
+[2024.06.12-01.47.40:550][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase]
+[2024.06.12-01.47.40:551][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase_Auto2
+[2024.06.12-01.47.40:551][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot_____Loop_1_ase_Auto73809BCF4A5A1A0DB970FBA6D847DD7F.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase_Auto2.uasset'
+[2024.06.12-01.47.40:552][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase] ([1] browsable assets)...
+[2024.06.12-01.47.40:553][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase.player-shoot_____Loop_2_ase]
+[2024.06.12-01.47.40:553][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase]
+[2024.06.12-01.47.40:555][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase_Auto2
+[2024.06.12-01.47.40:555][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot_____Loop_2_ase_Auto934C05124151156923576693B5BEC706.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase_Auto2.uasset'
+[2024.06.12-01.47.40:556][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase] ([1] browsable assets)...
+[2024.06.12-01.47.40:558][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase.player-shoot_____Loop_3_ase]
+[2024.06.12-01.47.40:558][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase]
+[2024.06.12-01.47.40:560][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase_Auto2
+[2024.06.12-01.47.40:560][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot_____Loop_3_ase_Auto08C639C645A38959DAC9A28842BA81E3.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase_Auto2.uasset'
+[2024.06.12-01.47.40:562][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge] ([1] browsable assets)...
+[2024.06.12-01.47.40:562][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge]
+[2024.06.12-01.47.40:562][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge_Auto2
+[2024.06.12-01.47.40:562][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot-charge_Auto2E03F630941F6A87AB08BF3B76EEF23A1.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge_Auto2.uasset'
+[2024.06.12-01.47.40:564][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite] ([1] browsable assets)...
+[2024.06.12-01.47.40:566][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite.player-shoot-charge_0_aseprite]
+[2024.06.12-01.47.40:567][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite]
+[2024.06.12-01.47.40:568][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite_Auto2
+[2024.06.12-01.47.40:568][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot-charge_0_aseprite_A2632CEB24BBAE851DB988FA12E2C3D37.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite_Auto2.uasset'
+[2024.06.12-01.47.40:569][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite] ([1] browsable assets)...
+[2024.06.12-01.47.40:571][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite.player-shoot-charge_1_aseprite]
+[2024.06.12-01.47.40:571][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite]
+[2024.06.12-01.47.40:572][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite_Auto2
+[2024.06.12-01.47.40:572][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot-charge_1_aseprite_A9637DD62460CF93804D9DD86D79DF290.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite_Auto2.uasset'
+[2024.06.12-01.47.40:574][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite] ([1] browsable assets)...
+[2024.06.12-01.47.40:575][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite.player-shoot-charge_2_aseprite]
+[2024.06.12-01.47.40:575][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite]
+[2024.06.12-01.47.40:576][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite_Auto2
+[2024.06.12-01.47.40:576][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot-charge_2_aseprite_A6650E1C843C2EC1042895DA4EBF1CBEE.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite_Auto2.uasset'
+[2024.06.12-01.47.40:578][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite] ([1] browsable assets)...
+[2024.06.12-01.47.40:580][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite.player-shoot-charge_3_aseprite]
+[2024.06.12-01.47.40:580][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite]
+[2024.06.12-01.47.40:582][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite_Auto2
+[2024.06.12-01.47.40:582][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot-charge_3_aseprite_AE298FFE64C2B1667328633B48419DBDE.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite_Auto2.uasset'
+[2024.06.12-01.47.40:584][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit] ([1] browsable assets)...
+[2024.06.12-01.47.40:584][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit]
+[2024.06.12-01.47.40:585][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit_Auto2
+[2024.06.12-01.47.40:585][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot-hit_Auto2FA1E946E402DACEB9DC91CA393B370B1.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit_Auto2.uasset'
+[2024.06.12-01.47.40:586][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite] ([1] browsable assets)...
+[2024.06.12-01.47.40:587][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite.player-shoot-hit__Loop_0_aseprite]
+[2024.06.12-01.47.40:587][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite]
+[2024.06.12-01.47.40:589][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite_Auto2
+[2024.06.12-01.47.40:589][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot-hit__Loop_0_aseprit80BDFEE949D9E8AD9BD312AFB6C340AF.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite_Auto2.uasset'
+[2024.06.12-01.47.40:590][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite] ([1] browsable assets)...
+[2024.06.12-01.47.40:592][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite.player-shoot-hit__Loop_1_aseprite]
+[2024.06.12-01.47.40:592][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite]
+[2024.06.12-01.47.40:593][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite_Auto2
+[2024.06.12-01.47.40:593][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot-hit__Loop_1_asepritC7DF21AD44CE73597279AD90DC389C9F.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite_Auto2.uasset'
+[2024.06.12-01.47.40:594][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite] ([1] browsable assets)...
+[2024.06.12-01.47.40:596][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite.player-shoot-hit__Loop_2_aseprite]
+[2024.06.12-01.47.40:596][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite]
+[2024.06.12-01.47.40:598][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite_Auto2
+[2024.06.12-01.47.40:598][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot-hit__Loop_2_aseprit6BDEDF51466267CDDAE35FA2F732319E.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite_Auto2.uasset'
+[2024.06.12-01.47.40:599][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite] ([1] browsable assets)...
+[2024.06.12-01.47.40:601][262]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite.player-shoot-hit__Loop_3_aseprite]
+[2024.06.12-01.47.40:601][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite]
+[2024.06.12-01.47.40:602][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite_Auto2
+[2024.06.12-01.47.40:602][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot-hit__Loop_3_aseprit07CAE6E640EE8A46AE7CA592BBEDF756.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite_Auto2.uasset'
+[2024.06.12-01.47.40:603][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/explosion/explosion__Loop] ([1] browsable assets)...
+[2024.06.12-01.47.40:605][262]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Fx/explosion/explosion__Loop.explosion__Loop]
+[2024.06.12-01.47.40:605][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/explosion/explosion__Loop]
+[2024.06.12-01.47.40:606][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/explosion/explosion__Loop_Auto2
+[2024.06.12-01.47.40:606][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/explosion__Loop_Auto2D55B0E204619F35EDEB314938F85E5F7.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/explosion/explosion__Loop_Auto2.uasset'
+[2024.06.12-01.47.40:608][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/fireball/fireball__Loop] ([1] browsable assets)...
+[2024.06.12-01.47.40:611][262]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Fx/fireball/fireball__Loop.fireball__Loop]
+[2024.06.12-01.47.40:611][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/fireball/fireball__Loop]
+[2024.06.12-01.47.40:612][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/fireball/fireball__Loop_Auto2
+[2024.06.12-01.47.40:612][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/fireball__Loop_Auto20D7692204250EC1A3BE23794B11CCE2E.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/fireball/fireball__Loop_Auto2.uasset'
+[2024.06.12-01.47.40:614][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot/player-shoot_____Loop] ([1] browsable assets)...
+[2024.06.12-01.47.40:616][262]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Fx/player-shoot/player-shoot_____Loop.player-shoot_____Loop]
+[2024.06.12-01.47.40:616][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot/player-shoot_____Loop]
+[2024.06.12-01.47.40:617][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot/player-shoot_____Loop_Auto2
+[2024.06.12-01.47.40:617][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot_____Loop_Auto27D75A6E642C27BF1C8F42FB3E51A75C5.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot/player-shoot_____Loop_Auto2.uasset'
+[2024.06.12-01.47.40:619][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge1] ([1] browsable assets)...
+[2024.06.12-01.47.40:621][262]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge1.player-shoot-charge1]
+[2024.06.12-01.47.40:621][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge1]
+[2024.06.12-01.47.40:622][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge1_Auto2
+[2024.06.12-01.47.40:622][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot-charge1_Auto280C4CB9141A4CB4D1FDD5C90F842E4A2.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge1_Auto2.uasset'
+[2024.06.12-01.47.40:623][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit__Loop] ([1] browsable assets)...
+[2024.06.12-01.47.40:626][262]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit__Loop.player-shoot-hit__Loop]
+[2024.06.12-01.47.40:626][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit__Loop]
+[2024.06.12-01.47.40:627][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit__Loop_Auto2
+[2024.06.12-01.47.40:627][262]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player-shoot-hit__Loop_Auto259BEEB324A1D43B2C95DA0BE09AE3D71.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit__Loop_Auto2.uasset'
+[2024.06.12-01.47.40:629][262]LogFileHelpers: Auto-saving content packages took 0.136
+[2024.06.12-02.01.57:065][837]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.12-02.01.57:074][837]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.12-02.01.57:081][838]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.12-02.02.01:676][388]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2024.06.12-02.02.01:676][388]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.12-02.02.04:439][713]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.06.12-02.02.05:237][801]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.12-02.02.05:245][801]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.12-02.02.05:276][803]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.12-02.02.07:422][ 61]LogContentBrowser: Attempting asset rename: NewFolder -> Characters
+[2024.06.12-02.02.07:422][ 61]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.12-02.03.16:573][712]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.06.12-02.03.16:580][712]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.06.12-02.03.16:585][712]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.06.12-02.03.16:602][714]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.06.12-02.03.23:751][569]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ActionChar_BASE
+[2024.06.12-02.03.23:762][569]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.06.12-02.06.28:898][778]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE
+[2024.06.12-02.08.13:023][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-02.08.13:045][916]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ActionChar_BASE] ([2] browsable assets)...
+[2024.06.12-02.08.13:045][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ActionChar_BASE]
+[2024.06.12-02.08.13:049][916]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar_BASE
+[2024.06.12-02.08.13:049][916]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_ActionChar_BASEFF4DACA840854B416483D7B81C627D52.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/BP_ActionChar_BASE.uasset'
+[2024.06.12-02.08.13:059][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.853 ms (total: 486.577 ms)
+[2024.06.12-02.08.13:077][916]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.12-02.08.13:077][916]LogContentValidation: Enabled validators:
+[2024.06.12-02.08.13:077][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.12-02.08.13:077][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.12-02.08.13:077][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.12-02.08.13:077][916]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE
+[2024.06.12-02.08.13:077][916]AssetCheck: /Game/Blueprints/Characters/BP_ActionChar_BASE Validating asset
+[2024.06.12-02.08.14:262][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.06.12-02.08.18:351][420]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE_C
+[2024.06.12-02.08.18:351][420]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE_C
+[2024.06.12-02.08.18:353][420]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE as actor: BP_ActionChar_BASE_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_ActionChar_BASE_C_0
+[2024.06.12-02.08.18:353][420]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE as actor: BP_ActionChar_BASE_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_ActionChar_BASE_C_0
+[2024.06.12-02.08.18:355][420]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.06.12-02.08.18:924][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.06.12-02.08.18:925][480]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2024.06.12-02.08.18:930][480]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE_C
+[2024.06.12-02.08.18:930][480]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE_C
+[2024.06.12-02.08.18:933][480]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE as actor: BP_ActionChar_BASE_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_ActionChar_BASE_C_1
+[2024.06.12-02.08.18:933][480]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE as actor: BP_ActionChar_BASE_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_ActionChar_BASE_C_1
+[2024.06.12-02.08.34:631][919]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.12-02.08.34:645][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.12-02.08.34:649][919]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.06.12-02.08.34:649][919]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.06.12-02.08.34:649][919]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.12-02.08.34:651][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002316s)
+[2024.06.12-02.08.34:651][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.002354s)
+[2024.06.12-02.08.34:668][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.06.12-02.08.34:669][919]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.12-02.08.34:670][919]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2024.06.12-02.08.34:676][919]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.06.12-02.08.34:676][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.12-02.08.34:676][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.12-02.08.34:676][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.12-02.08.34:676][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.12-02.08.34:676][919]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.12-02.08.34:676][919]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.12-02.08.34:676][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.12-02.08.34:676][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.12-02.08.34:676][919]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.12-02.08.34:676][919]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.12-02.08.34:676][919]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.12-02.08.34:678][919]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.12-02.08.34:700][919]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.12-02.08.34:701][919]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.12-02.08.34:701][919]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.12-02.08.34:701][919]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.12-02.08.34:701][919]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.06.12-02.08.34:701][919]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.06.12-02.08.34:703][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.06.12-02.08.34:703][919]LogInit: FAudioDevice initialized with ID 2.
+[2024.06.12-02.08.34:703][919]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.06.12-02.08.34:703][919]LogAudio: Display: Audio Device (ID: 2) registered with world 'MAP_Debug'.
+[2024.06.12-02.08.34:703][919]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.06.12-02.08.34:706][919]LogLoad: Game class is 'GameModeBase'
+[2024.06.12-02.08.34:706][919]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.06.11-22.08.34
+[2024.06.12-02.08.34:709][919]LogWorld: Bringing up level for play took: 0.003003
+[2024.06.12-02.08.34:711][919]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.06.12-02.08.34:716][919]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.12-02.08.34:728][919]PIE: Server logged in
+[2024.06.12-02.08.34:729][919]PIE: Play in editor total start time 0.09 seconds.
+[2024.06.12-02.11.16:802][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.12-02.11.16:802][189]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.12-02.11.16:803][189]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-02.11.16:803][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-02.11.16:803][189]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.12-02.11.16:803][189]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.12-02.11.16:808][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.12-02.11.16:813][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-02.11.16:827][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.12-02.11.16:827][189]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.06.12-02.11.16:827][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.06.12-02.11.16:829][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.06.12-02.11.16:835][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.06.12-02.11.16:904][190]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.06.12-02.11.18:817][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-02.11.18:883][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.06.12-02.11.18:891][408]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Debug
+[2024.06.12-02.11.18:893][408]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/MAP_Debug3DD2555346AE25C2AEA0D783B93B439B.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/MAP_Debug.umap'
+[2024.06.12-02.11.18:901][408]LogFileHelpers: Saving map 'MAP_Debug' took 0.057
+[2024.06.12-02.11.18:912][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.819 ms (total: 582.397 ms)
+[2024.06.12-02.11.18:932][408]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.12-02.11.18:932][408]LogContentValidation: Enabled validators:
+[2024.06.12-02.11.18:932][408]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.12-02.11.18:932][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.12-02.11.18:932][408]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.12-02.11.18:932][408]LogContentValidation: Display: Validating asset /Game/Maps/MAP_Debug.MAP_Debug
+[2024.06.12-02.11.18:933][408]AssetCheck: /Game/Maps/MAP_Debug Validating asset
+[2024.06.12-02.11.26:598][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-02.11.26:621][ 27]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ActionChar_BASE] ([2] browsable assets)...
+[2024.06.12-02.11.26:621][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ActionChar_BASE]
+[2024.06.12-02.11.26:624][ 27]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar_BASE
+[2024.06.12-02.11.26:626][ 27]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_ActionChar_BASEFA1242094D7032EB2C0A5093264FA3BC.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/BP_ActionChar_BASE.uasset'
+[2024.06.12-02.11.26:634][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.757 ms (total: 619.154 ms)
+[2024.06.12-02.11.26:653][ 27]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.12-02.11.26:653][ 27]LogContentValidation: Enabled validators:
+[2024.06.12-02.11.26:653][ 27]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.12-02.11.26:653][ 27]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.12-02.11.26:653][ 27]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.12-02.11.26:653][ 27]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE
+[2024.06.12-02.11.26:653][ 27]AssetCheck: /Game/Blueprints/Characters/BP_ActionChar_BASE Validating asset
+[2024.06.12-02.12.08:327][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-02.12.08:359][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ActionChar_BASE] ([2] browsable assets)...
+[2024.06.12-02.12.08:359][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ActionChar_BASE]
+[2024.06.12-02.12.08:362][635]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar_BASE
+[2024.06.12-02.12.08:364][635]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_ActionChar_BASE70B7502B426E990BCA24689F07D9E7FB.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/BP_ActionChar_BASE.uasset'
+[2024.06.12-02.12.08:372][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.467 ms (total: 663.621 ms)
+[2024.06.12-02.12.08:390][635]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.12-02.12.08:390][635]LogContentValidation: Enabled validators:
+[2024.06.12-02.12.08:390][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.12-02.12.08:390][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.12-02.12.08:390][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.12-02.12.08:390][635]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE
+[2024.06.12-02.12.08:390][635]AssetCheck: /Game/Blueprints/Characters/BP_ActionChar_BASE Validating asset
+[2024.06.12-02.12.09:194][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.06.12-02.12.09:807][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-02.12.09:836][741]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ActionChar_BASE] ([2] browsable assets)...
+[2024.06.12-02.12.09:836][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ActionChar_BASE]
+[2024.06.12-02.12.09:839][741]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar_BASE
+[2024.06.12-02.12.09:840][741]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_ActionChar_BASEC3349DE448154D577686EABC7BFF596F.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/BP_ActionChar_BASE.uasset'
+[2024.06.12-02.12.09:847][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.584 ms (total: 704.205 ms)
+[2024.06.12-02.12.09:874][741]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.12-02.12.09:874][741]LogContentValidation: Enabled validators:
+[2024.06.12-02.12.09:874][741]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.12-02.12.09:874][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.12-02.12.09:874][741]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.12-02.12.09:874][741]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE
+[2024.06.12-02.12.09:874][741]AssetCheck: /Game/Blueprints/Characters/BP_ActionChar_BASE Validating asset
+[2024.06.12-02.12.15:975][437]LogDerivedDataCache: C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.12-02.12.34:916][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-02.12.34:980][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.06.12-02.12.34:989][597]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Debug
+[2024.06.12-02.12.34:990][597]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/MAP_DebugCCC2F354401D2FC5AE1F27BDEC793768.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/MAP_Debug.umap'
+[2024.06.12-02.12.34:997][597]LogFileHelpers: Saving map 'MAP_Debug' took 0.056
+[2024.06.12-02.12.35:003][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.768 ms (total: 790.974 ms)
+[2024.06.12-02.12.35:023][597]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.12-02.12.35:023][597]LogContentValidation: Enabled validators:
+[2024.06.12-02.12.35:023][597]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.12-02.12.35:023][597]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.12-02.12.35:023][597]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.12-02.12.35:023][597]LogContentValidation: Display: Validating asset /Game/Maps/MAP_Debug.MAP_Debug
+[2024.06.12-02.12.35:023][597]AssetCheck: /Game/Maps/MAP_Debug Validating asset
+[2024.06.12-02.14.02:535][718]LogTexture: Display: Building textures: /Paper2D/PlaceholderTextures/FlatNormalMap.FlatNormalMap (TFO_BC5, 16x16 x1x1x1) (Required Memory Estimate: 0.134696 MB), EncodeSpeed: Fast
+[2024.06.12-02.14.14:147][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-02.14.14:176][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_ActionChar_BASE] ([2] browsable assets)...
+[2024.06.12-02.14.14:176][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_ActionChar_BASE]
+[2024.06.12-02.14.14:179][848]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar_BASE
+[2024.06.12-02.14.14:180][848]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_ActionChar_BASE682AC32C4D2FD6491AC3EEB3CF57A587.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/BP_ActionChar_BASE.uasset'
+[2024.06.12-02.14.14:187][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.878 ms (total: 830.852 ms)
+[2024.06.12-02.14.14:214][848]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.12-02.14.14:214][848]LogContentValidation: Enabled validators:
+[2024.06.12-02.14.14:214][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.12-02.14.14:214][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.12-02.14.14:214][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.12-02.14.14:214][848]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE
+[2024.06.12-02.14.14:214][848]AssetCheck: /Game/Blueprints/Characters/BP_ActionChar_BASE Validating asset
+[2024.06.12-02.14.47:775][973]LogContentBrowser: Deferred new asset file creation: BP_ActionChar_BASE_Child
+[2024.06.12-02.14.47:789][973]LogContentBrowser: Creating deferred item: BP_ActionChar_BASE_Child
+[2024.06.12-02.14.47:796][974]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ActionChar_BASE_Child).
+[2024.06.12-02.14.52:984][597]LogContentBrowser: Attempting asset rename: BP_ActionChar_BASE_Child -> BP_Player
+[2024.06.12-02.14.52:991][597]LogContentBrowser: End creating deferred item BP_ActionChar_BASE_Child
+[2024.06.12-02.15.00:042][415]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.12-02.15.00:049][415]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.12-02.15.00:058][416]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.12-02.15.01:553][596]LogContentBrowser: Attempting asset rename: NewFolder -> Player
+[2024.06.12-02.15.01:553][596]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.12-02.15.15:695][ 79]Cmd: DELETE
+[2024.06.12-02.15.15:695][ 79]Cmd: ACTOR DELETE
+[2024.06.12-02.15.15:700][ 79]LogEditorActor: Deleted Actor: BP_ActionChar_BASE_C
+[2024.06.12-02.15.15:723][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.06.12-02.15.15:725][ 79]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.06.12-02.15.24:236][472]LogMetaData: Removing '/Game/Blueprints/Characters/Player/BP_Player.BP_Player:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Characters/BP_Player.PackageMetaData'
+[2024.06.12-02.15.24:236][472]LogMetaData: Removing '/Game/Blueprints/Characters/Player/BP_Player.SKEL_BP_Player_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Characters/BP_Player.PackageMetaData'
+[2024.06.12-02.15.24:236][472]LogMetaData: Removing '/Game/Blueprints/Characters/Player/BP_Player.SKEL_BP_Player_C' ref from Metadata '/Game/Blueprints/Characters/BP_Player.PackageMetaData'
+[2024.06.12-02.15.24:236][472]LogMetaData: Removing '/Game/Blueprints/Characters/Player/BP_Player.BP_Player_C' ref from Metadata '/Game/Blueprints/Characters/BP_Player.PackageMetaData'
+[2024.06.12-02.15.24:236][472]LogMetaData: Removing '/Game/Blueprints/Characters/Player/BP_Player.BP_Player:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Characters/BP_Player.PackageMetaData'
+[2024.06.12-02.15.24:236][472]LogMetaData: Removing '/Game/Blueprints/Characters/Player/BP_Player.BP_Player:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Characters/BP_Player.PackageMetaData'
+[2024.06.12-02.15.24:236][472]LogMetaData: Removing '/Game/Blueprints/Characters/Player/BP_Player.BP_Player:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Characters/BP_Player.PackageMetaData'
+[2024.06.12-02.15.24:236][472]LogMetaData: Removing '/Game/Blueprints/Characters/Player/BP_Player.BP_Player:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Characters/BP_Player.PackageMetaData'
+[2024.06.12-02.15.24:236][472]LogMetaData: Removing '/Game/Blueprints/Characters/Player/BP_Player.BP_Player:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Characters/BP_Player.PackageMetaData'
+[2024.06.12-02.15.24:236][472]LogMetaData: Removing '/Game/Blueprints/Characters/Player/BP_Player.BP_Player:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Characters/BP_Player.PackageMetaData'
+[2024.06.12-02.15.24:238][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-02.15.24:261][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.12-02.15.24:261][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.12-02.15.24:265][472]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.12-02.15.24:265][472]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_PlayerE34D47AC402897EAEDF0BD87A90E2182.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.12-02.15.24:278][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.911 ms (total: 870.764 ms)
+[2024.06.12-02.15.24:300][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.06.12-02.15.24:318][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.06.12-02.15.24:332][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.12-02.15.24:345][472]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.06.12-02.15.24:345][472]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.12-02.15.24:345][472]LogContentValidation: Enabled validators:
+[2024.06.12-02.15.24:345][472]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.12-02.15.24:345][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.12-02.15.24:345][472]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.12-02.15.24:345][472]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.12-02.15.24:345][472]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.12-02.15.41:839][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/Player/BP_Player.BP_Player_C
+[2024.06.12-02.15.41:839][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/Player/BP_Player.BP_Player_C
+[2024.06.12-02.15.41:840][548]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/Player/BP_Player.BP_Player as actor: BP_Player_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_Player_C_0
+[2024.06.12-02.15.41:840][548]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/Player/BP_Player.BP_Player as actor: BP_Player_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_Player_C_0
+[2024.06.12-02.15.42:307][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.06.12-02.15.42:308][595]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2024.06.12-02.15.42:313][595]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/Player/BP_Player.BP_Player_C
+[2024.06.12-02.15.42:313][595]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/Player/BP_Player.BP_Player_C
+[2024.06.12-02.15.42:315][595]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/Player/BP_Player.BP_Player as actor: BP_Player_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_Player_C_1
+[2024.06.12-02.15.42:316][595]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/Player/BP_Player.BP_Player as actor: BP_Player_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_Player_C_1

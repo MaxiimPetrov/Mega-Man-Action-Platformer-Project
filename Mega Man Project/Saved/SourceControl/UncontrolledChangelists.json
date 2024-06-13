@@ -166,6 +166,10 @@
 				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/VFX/BP_VFX_BASE.uasset",
 				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/VFX/BP_VFX_ShotHit.uasset",
 				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/BP_Enemy_BASE.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/BP_Enemy_Crab.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Enums/E_Faction.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/VFX/BP_VFX_EnemyDestroyed.uasset",
 				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/BP_PlayerProjectile_BASE.uasset"
 			]
 		}

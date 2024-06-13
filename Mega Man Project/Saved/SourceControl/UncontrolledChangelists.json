@@ -160,9 +160,12 @@
 				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/WallSlide.uasset",
 				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/WallSlideShoot.uasset",
 				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/ABP_Player.uasset",
-				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/BP_PlayerProjectile_BASE.uasset",
 				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Player/BP_PlayerProjectile_BASE.uasset",
-				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/BP_Projectile_BASE.uasset"
+				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/BP_Projectile_BASE.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Player/BP_PlayerProjectile_Regular.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/VFX/BP_VFX_BASE.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/VFX/BP_VFX_ShotHit.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/BP_PlayerProjectile_BASE.uasset"
 			]
 		}
 	]

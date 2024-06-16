@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\RootMovement\\Module.RootMovement.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\RootMovement\\AsyncRootMovement.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\RootMovement\\RootMovement.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\RootMovement\\RootMovementLibrary.cpp.obj"
+	]
+}

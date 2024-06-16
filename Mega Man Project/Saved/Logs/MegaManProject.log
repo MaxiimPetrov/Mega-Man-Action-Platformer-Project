@@ -1410,3 +1410,1067 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.16-01.52.16:210][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2024.06.16-01.52.16:215][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
 [2024.06.16-01.52.16:249][800]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.06.16-01.56.28:848][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-01.56.28:870][ 21]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-01.56.28:870][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-01.56.28:909][ 21]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-01.56.28:910][ 21]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player0CA76AC74CD07CEAB0E081A9D054E651.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-01.56.28:918][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.643 ms (total: 1.02 sec)
+[2024.06.16-01.56.28:948][ 21]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-01.56.28:948][ 21]LogContentValidation: Enabled validators:
+[2024.06.16-01.56.28:948][ 21]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-01.56.28:948][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-01.56.28:948][ 21]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-01.56.28:948][ 21]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-01.56.28:948][ 21]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-01.56.29:396][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.06.16-01.56.29:845][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-01.56.29:864][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-01.56.29:864][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-01.56.29:903][ 97]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-01.56.29:904][ 97]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player0AAEDF37408201D53A789FB0DC507574.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-01.56.29:911][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.542 ms (total: 1.09 sec)
+[2024.06.16-01.56.29:942][ 97]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-01.56.29:942][ 97]LogContentValidation: Enabled validators:
+[2024.06.16-01.56.29:942][ 97]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-01.56.29:942][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-01.56.29:942][ 97]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-01.56.29:942][ 97]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-01.56.29:943][ 97]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-01.58.53:687][448]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Blueprints/Characters/Player/ABP_Player.ABP_Player
+[2024.06.16-01.59.48:132][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.06.16-01.59.48:138][ 90]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.024
+[2024.06.16-01.59.48:138][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/ABP_Player] ([2] browsable assets)...
+[2024.06.16-01.59.48:138][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/ABP_Player]
+[2024.06.16-01.59.48:155][ 90]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/Player/ABP_Player_Auto2
+[2024.06.16-01.59.48:155][ 90]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/ABP_Player_Auto27CDD32564008F7CF4ADC97BE7DE4A71E.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/Blueprints/Characters/Player/ABP_Player_Auto2.uasset'
+[2024.06.16-01.59.48:156][ 90]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.06.16-02.01.44:428][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.06.16-02.01.44:921][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.01.44:942][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/ABP_Player] ([2] browsable assets)...
+[2024.06.16-02.01.44:943][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/ABP_Player]
+[2024.06.16-02.01.44:960][546]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/ABP_Player
+[2024.06.16-02.01.44:961][546]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/ABP_Player317CA9FE4A924F80CD25F5BBDDCBACE0.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/ABP_Player.uasset'
+[2024.06.16-02.01.44:968][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.360 ms (total: 1.13 sec)
+[2024.06.16-02.01.44:986][546]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.01.44:986][546]LogContentValidation: Enabled validators:
+[2024.06.16-02.01.44:986][546]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.01.44:986][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.01.44:986][546]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.01.44:986][546]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/ABP_Player.ABP_Player
+[2024.06.16-02.01.44:986][546]AssetCheck: /Game/Blueprints/Characters/Player/ABP_Player Validating asset
+[2024.06.16-02.01.45:832][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.01.45:859][647]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/ABP_Player] ([2] browsable assets)...
+[2024.06.16-02.01.45:859][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/ABP_Player]
+[2024.06.16-02.01.45:877][647]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/ABP_Player
+[2024.06.16-02.01.45:877][647]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/ABP_Player18D8A2684C5CA3865A22268425C85671.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/ABP_Player.uasset'
+[2024.06.16-02.01.45:885][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.779 ms (total: 1.18 sec)
+[2024.06.16-02.01.45:917][647]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.01.45:917][647]LogContentValidation: Enabled validators:
+[2024.06.16-02.01.45:917][647]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.01.45:917][647]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.01.45:917][647]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.01.45:917][647]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/ABP_Player.ABP_Player
+[2024.06.16-02.01.45:917][647]AssetCheck: /Game/Blueprints/Characters/Player/ABP_Player Validating asset
+[2024.06.16-02.02.56:653][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.02.56:680][835]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/ABP_Player] ([2] browsable assets)...
+[2024.06.16-02.02.56:680][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/ABP_Player]
+[2024.06.16-02.02.56:698][835]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/ABP_Player
+[2024.06.16-02.02.56:699][835]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/ABP_Player6EC03E9F4508EA575D6CF680792A5BB9.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/ABP_Player.uasset'
+[2024.06.16-02.02.56:706][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.536 ms (total: 1.24 sec)
+[2024.06.16-02.02.56:740][835]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.02.56:740][835]LogContentValidation: Enabled validators:
+[2024.06.16-02.02.56:740][835]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.02.56:740][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.02.56:740][835]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.02.56:740][835]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/ABP_Player.ABP_Player
+[2024.06.16-02.02.56:740][835]AssetCheck: /Game/Blueprints/Characters/Player/ABP_Player Validating asset
+[2024.06.16-02.02.58:143][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.06.16-02.02.58:629][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.02.58:652][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/ABP_Player] ([2] browsable assets)...
+[2024.06.16-02.02.58:652][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/ABP_Player]
+[2024.06.16-02.02.58:669][ 55]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/ABP_Player
+[2024.06.16-02.02.58:670][ 55]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/ABP_Player1BA311814CF108DBAAB54C8C958361A2.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/ABP_Player.uasset'
+[2024.06.16-02.02.58:679][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.955 ms (total: 1.29 sec)
+[2024.06.16-02.02.58:706][ 55]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.02.58:706][ 55]LogContentValidation: Enabled validators:
+[2024.06.16-02.02.58:706][ 55]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.02.58:706][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.02.58:706][ 55]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.02.58:708][ 55]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/ABP_Player.ABP_Player
+[2024.06.16-02.02.58:708][ 55]AssetCheck: /Game/Blueprints/Characters/Player/ABP_Player Validating asset
+[2024.06.16-02.03.21:068][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.03.21:096][575]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/ABP_Player] ([2] browsable assets)...
+[2024.06.16-02.03.21:096][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/ABP_Player]
+[2024.06.16-02.03.21:115][575]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/ABP_Player
+[2024.06.16-02.03.21:116][575]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/ABP_PlayerE986B53C46BC1E6BA15279A2FDD0BB5E.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/ABP_Player.uasset'
+[2024.06.16-02.03.21:123][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.456 ms (total: 1.34 sec)
+[2024.06.16-02.03.21:154][575]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.03.21:154][575]LogContentValidation: Enabled validators:
+[2024.06.16-02.03.21:154][575]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.03.21:154][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.03.21:154][575]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.03.21:154][575]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/ABP_Player.ABP_Player
+[2024.06.16-02.03.21:154][575]AssetCheck: /Game/Blueprints/Characters/Player/ABP_Player Validating asset
+[2024.06.16-02.03.22:029][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.06.16-02.03.22:410][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.03.22:434][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/ABP_Player] ([2] browsable assets)...
+[2024.06.16-02.03.22:434][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/ABP_Player]
+[2024.06.16-02.03.22:453][719]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/ABP_Player
+[2024.06.16-02.03.22:454][719]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/ABP_Player609EBE764211B9029CB5969A3D55A8FF.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/ABP_Player.uasset'
+[2024.06.16-02.03.22:461][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.359 ms (total: 1.40 sec)
+[2024.06.16-02.03.22:489][719]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.03.22:489][719]LogContentValidation: Enabled validators:
+[2024.06.16-02.03.22:489][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.03.22:489][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.03.22:489][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.03.22:489][719]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/ABP_Player.ABP_Player
+[2024.06.16-02.03.22:489][719]AssetCheck: /Game/Blueprints/Characters/Player/ABP_Player Validating asset
+[2024.06.16-02.04.28:865][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.04.28:888][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/ABP_Player] ([2] browsable assets)...
+[2024.06.16-02.04.28:888][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/ABP_Player]
+[2024.06.16-02.04.28:907][278]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/ABP_Player
+[2024.06.16-02.04.28:908][278]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/ABP_Player8E8A1E2046DDDE83914A26953153DC16.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/ABP_Player.uasset'
+[2024.06.16-02.04.28:914][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.989 ms (total: 1.45 sec)
+[2024.06.16-02.04.28:941][278]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.04.28:942][278]LogContentValidation: Enabled validators:
+[2024.06.16-02.04.28:942][278]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.04.28:942][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.04.28:942][278]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.04.28:942][278]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/ABP_Player.ABP_Player
+[2024.06.16-02.04.28:942][278]AssetCheck: /Game/Blueprints/Characters/Player/ABP_Player Validating asset
+[2024.06.16-02.04.33:527][750]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.16-02.04.33:538][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.16-02.04.33:538][750]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.04.33:540][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001816s)
+[2024.06.16-02.04.33:540][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001864s)
+[2024.06.16-02.04.33:558][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.06.16-02.04.33:560][750]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.16-02.04.33:561][750]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2024.06.16-02.04.33:568][750]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.06.16-02.04.33:568][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.16-02.04.33:568][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.16-02.04.33:568][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.16-02.04.33:568][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.16-02.04.33:568][750]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.16-02.04.33:568][750]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.16-02.04.33:568][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.16-02.04.33:568][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.16-02.04.33:568][750]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.16-02.04.33:568][750]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.16-02.04.33:568][750]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.16-02.04.33:569][750]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.16-02.04.33:591][750]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.16-02.04.33:591][750]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.16-02.04.33:591][750]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.16-02.04.33:591][750]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.16-02.04.33:592][750]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.06.16-02.04.33:592][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.06.16-02.04.33:593][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.06.16-02.04.33:593][750]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.06.16-02.04.33:593][750]LogInit: FAudioDevice initialized with ID 6.
+[2024.06.16-02.04.33:593][750]LogAudio: Display: Audio Device (ID: 6) registered with world 'MAP_Debug'.
+[2024.06.16-02.04.33:593][750]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.06.16-02.04.33:614][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.04.33:614][750]LogLoad: Game class is 'GM_Action_C'
+[2024.06.16-02.04.33:615][750]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.06.15-22.04.33
+[2024.06.16-02.04.33:616][750]LogWorld: Bringing up level for play took: 0.001131
+[2024.06.16-02.04.33:618][750]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.06.16-02.04.33:619][750]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.16-02.04.33:627][750]PIE: Server logged in
+[2024.06.16-02.04.33:628][750]PIE: Play in editor total start time 0.094 seconds.
+[2024.06.16-02.04.50:431][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.04.50:431][679]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.04.50:432][679]LogSlate: Window 'MegaManProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.16-02.04.50:437][679]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.04.50:437][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.04.50:437][679]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.16-02.04.50:437][679]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.16-02.04.50:438][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.16-02.04.50:444][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.04.50:460][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.16-02.04.50:460][679]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.06.16-02.04.50:460][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.06.16-02.04.50:461][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.06.16-02.04.50:467][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.06.16-02.04.50:488][680]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.06.16-02.06.04:953][673]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.16-02.06.04:969][673]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2024.06.16-02.06.05:073][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.06.16-02.06.05:079][673]LogPlayLevel: PlayLevel: Blueprint regeneration took 116 ms (1 blueprints)
+[2024.06.16-02.06.05:079][673]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.06.05:080][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001439s)
+[2024.06.16-02.06.05:081][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001467s)
+[2024.06.16-02.06.05:097][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.06.16-02.06.05:098][673]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.16-02.06.05:099][673]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2024.06.16-02.06.05:111][673]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.06.16-02.06.05:111][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.16-02.06.05:111][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.16-02.06.05:111][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.16-02.06.05:111][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.16-02.06.05:111][673]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.16-02.06.05:111][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.16-02.06.05:111][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.16-02.06.05:111][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.16-02.06.05:111][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.16-02.06.05:111][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.16-02.06.05:111][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.16-02.06.05:113][673]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.16-02.06.05:136][673]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.16-02.06.05:136][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.16-02.06.05:136][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.16-02.06.05:136][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.16-02.06.05:138][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.06.16-02.06.05:138][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.06.16-02.06.05:140][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.06.16-02.06.05:140][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.06.16-02.06.05:140][673]LogInit: FAudioDevice initialized with ID 7.
+[2024.06.16-02.06.05:140][673]LogAudio: Display: Audio Device (ID: 7) registered with world 'MAP_Debug'.
+[2024.06.16-02.06.05:140][673]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.06.16-02.06.05:167][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.06.05:167][673]LogLoad: Game class is 'GM_Action_C'
+[2024.06.16-02.06.05:168][673]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.06.15-22.06.05
+[2024.06.16-02.06.05:168][673]LogWorld: Bringing up level for play took: 0.000928
+[2024.06.16-02.06.05:170][673]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.06.16-02.06.05:171][673]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.16-02.06.05:180][673]PIE: Server logged in
+[2024.06.16-02.06.05:181][673]PIE: Play in editor total start time 0.221 seconds.
+[2024.06.16-02.06.12:120][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.06.12:120][384]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.06.12:120][384]LogSlate: Window 'MegaManProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.16-02.06.12:125][384]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.06.12:126][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.06.12:126][384]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.16-02.06.12:126][384]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.16-02.06.12:128][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.16-02.06.12:132][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.06.12:148][384]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.06.16-02.06.12:148][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.06.16-02.06.12:149][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.06.16-02.06.12:155][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.06.16-02.06.12:208][386]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.06.16-02.07.18:908][376]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite.player__WallSlide_0_aseprite
+[2024.06.16-02.07.19:018][376]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.16-02.07.48:912][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.07.48:943][488]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite] ([1] browsable assets)...
+[2024.06.16-02.07.48:944][488]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite.player__WallSlide_0_aseprite]
+[2024.06.16-02.07.48:944][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite]
+[2024.06.16-02.07.48:946][488]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite
+[2024.06.16-02.07.48:946][488]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player__WallSlide_0_aseprite23E865184898431197AECAB6A8922D03.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite.uasset'
+[2024.06.16-02.07.48:956][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.488 ms (total: 1.49 sec)
+[2024.06.16-02.07.48:980][488]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.07.48:980][488]LogContentValidation: Enabled validators:
+[2024.06.16-02.07.48:980][488]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.07.48:980][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.07.48:980][488]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.07.48:980][488]LogContentValidation: Display: Validating asset /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite.player__WallSlide_0_aseprite
+[2024.06.16-02.07.48:980][488]AssetCheck: /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite Validating asset
+[2024.06.16-02.07.57:620][402]LogSlate: Window 'player__WallSlide_0_aseprite' being destroyed
+[2024.06.16-02.07.57:635][402]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.07.57:635][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.07.57:673][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.06.16-02.08.01:775][890]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.16-02.08.01:783][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.16-02.08.01:783][890]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.08.01:785][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001537s)
+[2024.06.16-02.08.01:785][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001564s)
+[2024.06.16-02.08.01:803][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.06.16-02.08.01:804][890]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.16-02.08.01:805][890]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2024.06.16-02.08.01:812][890]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.06.16-02.08.01:812][890]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.16-02.08.01:812][890]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.16-02.08.01:812][890]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.16-02.08.01:812][890]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.16-02.08.01:812][890]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.16-02.08.01:812][890]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.16-02.08.01:812][890]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.16-02.08.01:812][890]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.16-02.08.01:812][890]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.16-02.08.01:812][890]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.16-02.08.01:812][890]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.16-02.08.01:814][890]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.16-02.08.01:835][890]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.16-02.08.01:835][890]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.16-02.08.01:835][890]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.16-02.08.01:835][890]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.16-02.08.01:836][890]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.06.16-02.08.01:836][890]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.06.16-02.08.01:837][890]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.06.16-02.08.01:837][890]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.06.16-02.08.01:837][890]LogInit: FAudioDevice initialized with ID 8.
+[2024.06.16-02.08.01:837][890]LogAudio: Display: Audio Device (ID: 8) registered with world 'MAP_Debug'.
+[2024.06.16-02.08.01:837][890]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.06.16-02.08.01:862][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.08.01:862][890]LogLoad: Game class is 'GM_Action_C'
+[2024.06.16-02.08.01:863][890]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.06.15-22.08.01
+[2024.06.16-02.08.01:863][890]LogWorld: Bringing up level for play took: 0.000941
+[2024.06.16-02.08.01:865][890]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.06.16-02.08.01:866][890]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.16-02.08.01:876][890]PIE: Server logged in
+[2024.06.16-02.08.01:877][890]PIE: Play in editor total start time 0.097 seconds.
+[2024.06.16-02.08.18:220][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.08.18:220][704]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.08.18:221][704]LogSlate: Window 'MegaManProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.16-02.08.18:226][704]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.08.18:228][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.08.18:228][704]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.16-02.08.18:228][704]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.16-02.08.18:230][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.16-02.08.18:235][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.08.18:251][704]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.06.16-02.08.18:252][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.06.16-02.08.18:253][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.06.16-02.08.18:259][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.06.16-02.08.18:293][705]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.06.16-02.08.21:778][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.08.21:808][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.08.21:808][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.08.21:850][965]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.08.21:851][965]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player0A1AD3144053DB744FD1E8AA10D40F91.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.08.21:861][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.307 ms (total: 1.57 sec)
+[2024.06.16-02.08.21:893][965]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.08.21:893][965]LogContentValidation: Enabled validators:
+[2024.06.16-02.08.21:893][965]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.08.21:893][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.08.21:893][965]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.08.21:893][965]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.08.21:894][965]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.08.26:891][561]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite.player__WallSlide_Shoot_0_aseprite
+[2024.06.16-02.08.34:878][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.08.34:902][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite] ([1] browsable assets)...
+[2024.06.16-02.08.34:903][172]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite.player__WallSlide_Shoot_0_aseprite]
+[2024.06.16-02.08.34:903][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite]
+[2024.06.16-02.08.34:905][172]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite
+[2024.06.16-02.08.34:905][172]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/player__WallSlide_Shoot_0_asepriEA78FFA34FFC0D42484F178B17DEF3C9.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite.uasset'
+[2024.06.16-02.08.34:914][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.935 ms (total: 1.61 sec)
+[2024.06.16-02.08.34:939][172]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.08.34:939][172]LogContentValidation: Enabled validators:
+[2024.06.16-02.08.34:939][172]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.08.34:939][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.08.34:939][172]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.08.34:939][172]LogContentValidation: Display: Validating asset /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite.player__WallSlide_Shoot_0_aseprite
+[2024.06.16-02.08.34:939][172]AssetCheck: /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite Validating asset
+[2024.06.16-02.08.49:926][964]LogSlate: Window 'player__WallSlide_Shoot_0_aseprite' being destroyed
+[2024.06.16-02.08.49:942][964]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.08.49:942][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.08.49:979][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.06.16-02.10.10:335][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.10.10:359][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.10.10:359][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.10.10:399][221]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.10.10:399][221]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player443034F046C63C4366F18DB34593FAF3.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.10.10:406][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.538 ms (total: 1.68 sec)
+[2024.06.16-02.10.10:429][221]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.10.10:429][221]LogContentValidation: Enabled validators:
+[2024.06.16-02.10.10:429][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.10.10:429][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.10.10:429][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.10.10:429][221]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.10.10:429][221]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.10.32:574][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.10.32:598][331]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.10.32:598][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.10.32:637][331]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.10.32:638][331]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player44818CF24FD8F90E06509E9597D843F8.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.10.32:645][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.269 ms (total: 1.75 sec)
+[2024.06.16-02.10.32:663][331]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.10.32:663][331]LogContentValidation: Enabled validators:
+[2024.06.16-02.10.32:663][331]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.10.32:663][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.10.32:663][331]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.10.32:663][331]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.10.32:663][331]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.10.33:344][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.06.16-02.10.33:714][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.10.33:735][433]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.10.33:735][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.10.33:774][433]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.10.33:775][433]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player9957476F47C0299E4D3271A8F656CB9A.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.10.33:782][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.325 ms (total: 1.82 sec)
+[2024.06.16-02.10.33:809][433]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.10.33:809][433]LogContentValidation: Enabled validators:
+[2024.06.16-02.10.33:809][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.10.33:809][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.10.33:809][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.10.33:809][433]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.10.33:809][433]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.13.22:841][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.13.22:863][760]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.13.22:863][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.13.22:902][760]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.13.22:903][760]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_PlayerA02E9BAC4D2E25486E6F5999F3DC7136.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.13.22:911][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.315 ms (total: 1.89 sec)
+[2024.06.16-02.13.22:937][760]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.13.22:937][760]LogContentValidation: Enabled validators:
+[2024.06.16-02.13.22:937][760]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.13.22:937][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.13.22:937][760]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.13.22:937][760]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.13.22:937][760]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.13.23:791][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.16-02.13.24:203][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.13.24:231][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.13.24:231][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.13.24:269][892]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.13.24:270][892]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_PlayerD23A472C47242CBB210F17BD2AD270C5.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.13.24:279][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.208 ms (total: 1.97 sec)
+[2024.06.16-02.13.24:307][892]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.13.24:307][892]LogContentValidation: Enabled validators:
+[2024.06.16-02.13.24:307][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.13.24:307][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.13.24:307][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.13.24:307][892]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.13.24:307][892]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.13.30:213][522]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.16-02.13.30:221][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.16-02.13.30:221][522]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.13.30:223][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001507s)
+[2024.06.16-02.13.30:223][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001533s)
+[2024.06.16-02.13.30:242][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.06.16-02.13.30:246][522]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.16-02.13.30:246][522]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2024.06.16-02.13.30:253][522]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.06.16-02.13.30:253][522]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.16-02.13.30:253][522]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.16-02.13.30:253][522]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.16-02.13.30:253][522]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.16-02.13.30:253][522]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.16-02.13.30:253][522]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.16-02.13.30:253][522]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.16-02.13.30:253][522]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.16-02.13.30:253][522]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.16-02.13.30:253][522]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.16-02.13.30:253][522]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.16-02.13.30:255][522]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.16-02.13.30:276][522]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.16-02.13.30:276][522]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.16-02.13.30:276][522]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.16-02.13.30:276][522]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.16-02.13.30:278][522]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.06.16-02.13.30:278][522]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.06.16-02.13.30:279][522]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.06.16-02.13.30:279][522]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.06.16-02.13.30:279][522]LogInit: FAudioDevice initialized with ID 9.
+[2024.06.16-02.13.30:280][522]LogAudio: Display: Audio Device (ID: 9) registered with world 'MAP_Debug'.
+[2024.06.16-02.13.30:280][522]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.06.16-02.13.30:301][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.13.30:301][522]LogLoad: Game class is 'GM_Action_C'
+[2024.06.16-02.13.30:302][522]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.06.15-22.13.30
+[2024.06.16-02.13.30:302][522]LogWorld: Bringing up level for play took: 0.000947
+[2024.06.16-02.13.30:304][522]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.06.16-02.13.30:306][522]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.16-02.13.30:315][522]PIE: Server logged in
+[2024.06.16-02.13.30:316][522]PIE: Play in editor total start time 0.097 seconds.
+[2024.06.16-02.13.52:900][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.13.52:900][ 65]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.13.52:900][ 65]LogSlate: Window 'MegaManProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.16-02.13.52:906][ 65]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.13.52:906][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.13.52:906][ 65]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.16-02.13.52:906][ 65]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.16-02.13.52:908][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.16-02.13.52:913][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.13.52:929][ 65]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.16-02.13.52:930][ 65]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.06.16-02.13.52:930][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.06.16-02.13.52:931][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.06.16-02.13.52:937][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.06.16-02.13.52:980][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.06.16-02.14.26:453][608]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.06.16-02.16.21:788][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.06.16-02.16.21:790][ 75]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.020
+[2024.06.16-02.16.21:790][ 75]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.16.21:790][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.16.21:831][ 75]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/Player/BP_Player_Auto3
+[2024.06.16-02.16.21:831][ 75]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player_Auto34931854A4BE825C14D9D8D9E23C2396B.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/Blueprints/Characters/Player/BP_Player_Auto3.uasset'
+[2024.06.16-02.16.21:833][ 75]LogFileHelpers: Auto-saving content packages took 0.042
+[2024.06.16-02.19.28:301][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.06.16-02.19.28:704][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.19.28:728][158]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.19.28:728][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.19.28:768][158]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.19.28:769][158]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player3E384B9B4F38F2176D8F4E94C0C43D41.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.19.28:776][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.279 ms (total: 2.04 sec)
+[2024.06.16-02.19.28:801][158]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.19.28:801][158]LogContentValidation: Enabled validators:
+[2024.06.16-02.19.28:801][158]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.19.28:801][158]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.19.28:801][158]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.19.28:801][158]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.19.28:801][158]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.20.36:722][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.20.36:748][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.20.36:748][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.20.36:788][871]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.20.36:789][871]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player183FD86E4405ED9914C679A750DD57A8.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.20.36:797][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.146 ms (total: 2.11 sec)
+[2024.06.16-02.20.36:827][871]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.20.36:827][871]LogContentValidation: Enabled validators:
+[2024.06.16-02.20.36:827][871]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.20.36:827][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.20.36:827][871]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.20.36:827][871]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.20.36:827][871]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.20.50:228][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.20.50:254][432]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.20.50:254][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.20.50:294][432]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.20.50:295][432]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_PlayerE485FA494BB260BD477C75BA07F76121.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.20.50:302][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.468 ms (total: 2.19 sec)
+[2024.06.16-02.20.50:331][432]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.20.50:331][432]LogContentValidation: Enabled validators:
+[2024.06.16-02.20.50:331][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.20.50:331][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.20.50:331][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.20.50:331][432]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.20.50:331][432]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.21.58:549][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.06.16-02.21.59:018][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.21.59:046][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.21.59:046][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.21.59:086][247]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.21.59:087][247]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_PlayerFB86883547FA82AD7E090AA6E2B275B2.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.21.59:095][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.586 ms (total: 2.26 sec)
+[2024.06.16-02.21.59:123][247]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.21.59:123][247]LogContentValidation: Enabled validators:
+[2024.06.16-02.21.59:123][247]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.21.59:123][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.21.59:123][247]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.21.59:123][247]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.21.59:123][247]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.22.55:425][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.22.55:450][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.22.55:450][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.22.55:491][754]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.22.55:492][754]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player5C53856A48C4B4C6657A859E9B97A9F7.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.22.55:499][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.451 ms (total: 2.34 sec)
+[2024.06.16-02.22.55:521][754]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.22.55:521][754]LogContentValidation: Enabled validators:
+[2024.06.16-02.22.55:521][754]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.22.55:521][754]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.22.55:521][754]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.22.55:521][754]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.22.55:521][754]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.22.56:588][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.06.16-02.22.57:318][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.22.57:337][937]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.22.57:337][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.22.57:377][937]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.22.57:379][937]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player9F4FCDD24B9717C573C930A80711D4DB.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.22.57:387][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.229 ms (total: 2.41 sec)
+[2024.06.16-02.22.57:409][937]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.22.57:409][937]LogContentValidation: Enabled validators:
+[2024.06.16-02.22.57:409][937]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.22.57:409][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.22.57:409][937]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.22.57:409][937]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.22.57:409][937]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.23.36:036][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.23.36:053][369]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.23.36:053][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.23.36:094][369]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.23.36:095][369]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player1E3C2DC04722E1ED1ED6E8B785D4EA1F.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.23.36:102][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.275 ms (total: 2.47 sec)
+[2024.06.16-02.23.36:127][369]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.23.36:127][369]LogContentValidation: Enabled validators:
+[2024.06.16-02.23.36:127][369]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.23.36:127][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.23.36:127][369]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.23.36:127][369]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.23.36:127][369]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.23.36:684][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.06.16-02.23.37:308][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.23.37:332][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.23.37:332][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.23.37:373][472]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.23.37:374][472]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player0E765A114E49A0692A016093AAD9D29F.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.23.37:383][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.450 ms (total: 2.55 sec)
+[2024.06.16-02.23.37:416][472]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.23.37:416][472]LogContentValidation: Enabled validators:
+[2024.06.16-02.23.37:416][472]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.23.37:416][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.23.37:416][472]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.23.37:416][472]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.23.37:416][472]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.24.07:156][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.24.07:176][393]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.24.07:176][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.24.07:217][393]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.24.07:218][393]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player7D6C0D3D4D41755791C1A7837F4BFF3A.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.24.07:226][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.714 ms (total: 2.62 sec)
+[2024.06.16-02.24.07:252][393]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.24.07:252][393]LogContentValidation: Enabled validators:
+[2024.06.16-02.24.07:252][393]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.24.07:252][393]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.24.07:252][393]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.24.07:252][393]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.24.07:253][393]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.24.07:901][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.06.16-02.24.08:414][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.24.08:441][499]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.24.08:441][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.24.08:482][499]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.24.08:482][499]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player60343D604B1710BCE5357583DF7E573F.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.24.08:492][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.899 ms (total: 2.70 sec)
+[2024.06.16-02.24.08:518][499]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.24.08:518][499]LogContentValidation: Enabled validators:
+[2024.06.16-02.24.08:518][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.24.08:518][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.24.08:518][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.24.08:518][499]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.24.08:518][499]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.24.12:771][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.24.12:797][  0]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.24.12:797][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.24.12:838][  0]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.24.12:839][  0]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player4D9C950C4D197C5861D25385B212ACB4.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.24.12:846][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.457 ms (total: 2.77 sec)
+[2024.06.16-02.24.12:874][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.24.12:874][  0]LogContentValidation: Enabled validators:
+[2024.06.16-02.24.12:874][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.24.12:874][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.24.12:874][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.24.12:874][  0]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.24.12:874][  0]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.24.17:122][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.06.16-02.24.18:027][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.24.18:053][582]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.24.18:053][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.24.18:093][582]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.24.18:094][582]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_PlayerD62A873D4C4E3722C26D20BA4AB9BDE2.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.24.18:103][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.316 ms (total: 2.85 sec)
+[2024.06.16-02.24.18:124][582]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.24.18:124][582]LogContentValidation: Enabled validators:
+[2024.06.16-02.24.18:124][582]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.24.18:124][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.24.18:124][582]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.24.18:124][582]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.24.18:124][582]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.24.18:672][647]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.16-02.24.18:681][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.16-02.24.18:681][647]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.24.18:683][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001856s)
+[2024.06.16-02.24.18:683][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001884s)
+[2024.06.16-02.24.18:701][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.06.16-02.24.18:707][647]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.16-02.24.18:708][647]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2024.06.16-02.24.18:715][647]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.06.16-02.24.18:715][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.16-02.24.18:715][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.16-02.24.18:715][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.16-02.24.18:715][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.16-02.24.18:715][647]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.16-02.24.18:715][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.16-02.24.18:715][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.16-02.24.18:715][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.16-02.24.18:715][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.16-02.24.18:715][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.16-02.24.18:715][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.16-02.24.18:717][647]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.16-02.24.18:739][647]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.16-02.24.18:739][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.16-02.24.18:739][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.16-02.24.18:739][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.16-02.24.18:740][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.06.16-02.24.18:740][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.06.16-02.24.18:741][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.06.16-02.24.18:741][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.06.16-02.24.18:741][647]LogInit: FAudioDevice initialized with ID 10.
+[2024.06.16-02.24.18:741][647]LogAudio: Display: Audio Device (ID: 10) registered with world 'MAP_Debug'.
+[2024.06.16-02.24.18:741][647]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.06.16-02.24.18:762][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.24.18:762][647]LogLoad: Game class is 'GM_Action_C'
+[2024.06.16-02.24.18:763][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.06.15-22.24.18
+[2024.06.16-02.24.18:763][647]LogWorld: Bringing up level for play took: 0.000945
+[2024.06.16-02.24.18:765][647]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.06.16-02.24.18:766][647]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.16-02.24.18:779][647]PIE: Server logged in
+[2024.06.16-02.24.18:784][647]PIE: Play in editor total start time 0.106 seconds.
+[2024.06.16-02.24.24:550][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.24.24:550][257]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.24.24:551][257]LogSlate: Window 'MegaManProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.16-02.24.24:556][257]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.24.24:557][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.24.24:557][257]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.16-02.24.24:557][257]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.16-02.24.24:559][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.16-02.24.24:563][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.24.24:581][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.16-02.24.24:581][257]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.06.16-02.24.24:581][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.06.16-02.24.24:583][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.06.16-02.24.24:587][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.06.16-02.24.24:624][259]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.06.16-02.24.35:501][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.24.35:523][317]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.24.35:523][317]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.24.35:564][317]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.24.35:565][317]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player00604BD84B74908A5E028FACF3955F45.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.24.35:572][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.854 ms (total: 2.92 sec)
+[2024.06.16-02.24.35:595][317]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.24.35:595][317]LogContentValidation: Enabled validators:
+[2024.06.16-02.24.35:595][317]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.24.35:595][317]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.24.35:595][317]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.24.35:595][317]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.24.35:595][317]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.24.36:186][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.06.16-02.24.36:597][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.24.36:623][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.24.36:623][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.24.36:664][401]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.24.36:664][401]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player6050634F4A9DE04DBC4F3D953E549699.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.24.36:673][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.464 ms (total: 2.99 sec)
+[2024.06.16-02.24.36:701][401]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.24.36:701][401]LogContentValidation: Enabled validators:
+[2024.06.16-02.24.36:701][401]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.24.36:701][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.24.36:701][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.24.36:701][401]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.24.36:701][401]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.24.37:377][479]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.16-02.24.37:385][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.16-02.24.37:385][479]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.24.37:387][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001443s)
+[2024.06.16-02.24.37:387][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001469s)
+[2024.06.16-02.24.37:404][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.06.16-02.24.37:412][479]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.16-02.24.37:412][479]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2024.06.16-02.24.37:418][479]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.06.16-02.24.37:419][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.16-02.24.37:419][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.16-02.24.37:419][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.16-02.24.37:419][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.16-02.24.37:419][479]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.16-02.24.37:419][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.16-02.24.37:419][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.16-02.24.37:419][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.16-02.24.37:419][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.16-02.24.37:419][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.16-02.24.37:419][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.16-02.24.37:420][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.16-02.24.37:441][479]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.16-02.24.37:441][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.16-02.24.37:441][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.16-02.24.37:441][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.16-02.24.37:442][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.06.16-02.24.37:442][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.06.16-02.24.37:443][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.06.16-02.24.37:443][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.06.16-02.24.37:443][479]LogInit: FAudioDevice initialized with ID 11.
+[2024.06.16-02.24.37:443][479]LogAudio: Display: Audio Device (ID: 11) registered with world 'MAP_Debug'.
+[2024.06.16-02.24.37:443][479]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.06.16-02.24.37:466][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.24.37:466][479]LogLoad: Game class is 'GM_Action_C'
+[2024.06.16-02.24.37:468][479]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.06.15-22.24.37
+[2024.06.16-02.24.37:468][479]LogWorld: Bringing up level for play took: 0.001089
+[2024.06.16-02.24.37:470][479]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.06.16-02.24.37:472][479]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.16-02.24.37:483][479]PIE: Server logged in
+[2024.06.16-02.24.37:487][479]PIE: Play in editor total start time 0.104 seconds.
+[2024.06.16-02.24.39:469][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.24.39:469][678]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.24.39:470][678]LogSlate: Window 'MegaManProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.16-02.24.39:474][678]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.24.39:474][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.24.39:475][678]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.16-02.24.39:475][678]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.16-02.24.39:477][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.16-02.24.39:482][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.24.39:496][678]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.16-02.24.39:496][678]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.06.16-02.24.39:496][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.06.16-02.24.39:497][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.06.16-02.24.39:502][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.06.16-02.24.39:540][680]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.06.16-02.24.55:778][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.24.55:802][938]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.24.55:802][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.24.55:844][938]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.24.55:845][938]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player11C9D7C94AB88360A46280A14F0A4861.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.24.55:853][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.280 ms (total: 3.07 sec)
+[2024.06.16-02.24.55:879][938]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.24.55:879][938]LogContentValidation: Enabled validators:
+[2024.06.16-02.24.55:879][938]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.24.55:879][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.24.55:879][938]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.24.55:879][938]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.24.55:879][938]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.24.57:844][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.06.16-02.24.58:387][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.24.58:412][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.24.58:412][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.24.58:453][205]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.24.58:454][205]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player035FAE2C443489B0088EB5BD710E6A1F.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.24.58:461][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.488 ms (total: 3.14 sec)
+[2024.06.16-02.24.58:489][205]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.24.58:489][205]LogContentValidation: Enabled validators:
+[2024.06.16-02.24.58:489][205]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.24.58:489][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.24.58:489][205]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.24.58:489][205]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.24.58:489][205]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.24.58:812][243]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.16-02.24.58:820][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.16-02.24.58:820][243]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.24.58:822][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001516s)
+[2024.06.16-02.24.58:822][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001545s)
+[2024.06.16-02.24.58:839][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.06.16-02.24.58:845][243]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.16-02.24.58:846][243]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2024.06.16-02.24.58:853][243]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.06.16-02.24.58:853][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.16-02.24.58:853][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.16-02.24.58:853][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.16-02.24.58:853][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.16-02.24.58:853][243]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.16-02.24.58:853][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.16-02.24.58:853][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.16-02.24.58:853][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.16-02.24.58:853][243]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.16-02.24.58:853][243]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.16-02.24.58:853][243]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.16-02.24.58:855][243]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.16-02.24.58:875][243]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.16-02.24.58:875][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.16-02.24.58:876][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.16-02.24.58:876][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.16-02.24.58:876][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.06.16-02.24.58:876][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.06.16-02.24.58:877][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.06.16-02.24.58:877][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.06.16-02.24.58:877][243]LogInit: FAudioDevice initialized with ID 12.
+[2024.06.16-02.24.58:877][243]LogAudio: Display: Audio Device (ID: 12) registered with world 'MAP_Debug'.
+[2024.06.16-02.24.58:877][243]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.06.16-02.24.58:899][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.24.58:899][243]LogLoad: Game class is 'GM_Action_C'
+[2024.06.16-02.24.58:900][243]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.06.15-22.24.58
+[2024.06.16-02.24.58:901][243]LogWorld: Bringing up level for play took: 0.001071
+[2024.06.16-02.24.58:903][243]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.06.16-02.24.58:904][243]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.16-02.24.58:917][243]PIE: Server logged in
+[2024.06.16-02.24.58:920][243]PIE: Play in editor total start time 0.103 seconds.
+[2024.06.16-02.25.13:789][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.25.13:789][870]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.25.13:790][870]LogSlate: Window 'MegaManProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.16-02.25.13:795][870]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.25.13:795][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.25.13:795][870]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.16-02.25.13:795][870]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.16-02.25.13:798][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.16-02.25.13:802][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.25.13:819][870]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.16-02.25.13:819][870]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.06.16-02.25.13:819][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.06.16-02.25.13:821][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.06.16-02.25.13:826][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.06.16-02.25.13:862][872]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.06.16-02.25.41:523][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.25.41:550][646]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.25.41:550][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.25.41:592][646]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.25.41:593][646]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player4EC1980D4AE155D9EBCAD4B3E6E4D19E.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.25.41:602][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.282 ms (total: 3.22 sec)
+[2024.06.16-02.25.41:626][646]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.25.41:626][646]LogContentValidation: Enabled validators:
+[2024.06.16-02.25.41:626][646]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.25.41:626][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.25.41:626][646]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.25.41:626][646]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.25.41:627][646]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.25.52:299][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.25.52:321][856]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.25.52:321][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.25.52:364][856]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.25.52:365][856]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player13D81D0A4648225B96B74FBA137171A6.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.25.52:372][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.117 ms (total: 3.29 sec)
+[2024.06.16-02.25.52:399][856]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.25.52:399][856]LogContentValidation: Enabled validators:
+[2024.06.16-02.25.52:399][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.25.52:399][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.25.52:399][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.25.52:399][856]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.25.52:399][856]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.25.52:935][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.16-02.25.53:248][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.25.53:272][924]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.25.53:272][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.25.53:313][924]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.25.53:314][924]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player4213A1AF44361DC95E2E3E8A5B8E6F63.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.25.53:323][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.898 ms (total: 3.37 sec)
+[2024.06.16-02.25.53:349][924]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.25.53:349][924]LogContentValidation: Enabled validators:
+[2024.06.16-02.25.53:349][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.25.53:349][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.25.53:349][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.25.53:349][924]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.25.53:349][924]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.26.45:427][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.16-02.26.45:431][456]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.021
+[2024.06.16-02.26.45:431][456]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.26.45:431][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.26.45:475][456]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/Player/BP_Player_Auto4
+[2024.06.16-02.26.45:475][456]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player_Auto4966DFC924B85FDEE1D43EE9BE7215FE7.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/Blueprints/Characters/Player/BP_Player_Auto4.uasset'
+[2024.06.16-02.26.45:476][456]LogFileHelpers: Auto-saving content packages took 0.045
+[2024.06.16-02.27.25:235][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.27.25:257][524]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.27.25:257][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.27.25:299][524]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.27.25:300][524]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_PlayerC0FC03A4484737A1037D7CA479D03F3F.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.27.25:308][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.270 ms (total: 3.44 sec)
+[2024.06.16-02.27.25:334][524]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.27.25:334][524]LogContentValidation: Enabled validators:
+[2024.06.16-02.27.25:334][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.27.25:334][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.27.25:334][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.27.25:334][524]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.27.25:334][524]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.27.26:094][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.06.16-02.27.26:433][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-02.27.26:457][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.06.16-02.27.26:457][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.06.16-02.27.26:499][623]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.06.16-02.27.26:500][623]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Player7415DA094361FAFDA57BE4BEA73759A0.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.06.16-02.27.26:509][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.124 ms (total: 3.52 sec)
+[2024.06.16-02.27.26:534][623]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.16-02.27.26:534][623]LogContentValidation: Enabled validators:
+[2024.06.16-02.27.26:534][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.16-02.27.26:534][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.16-02.27.26:534][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.16-02.27.26:534][623]LogContentValidation: Display: Validating asset /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.06.16-02.27.26:534][623]AssetCheck: /Game/Blueprints/Characters/Player/BP_Player Validating asset
+[2024.06.16-02.27.32:123][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.16-02.27.32:131][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.16-02.27.32:131][289]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.27.32:133][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001516s)
+[2024.06.16-02.27.32:133][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001543s)
+[2024.06.16-02.27.32:148][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.06.16-02.27.32:153][289]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.16-02.27.32:154][289]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2024.06.16-02.27.32:161][289]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.06.16-02.27.32:161][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.16-02.27.32:161][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.16-02.27.32:161][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.16-02.27.32:161][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.16-02.27.32:161][289]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.16-02.27.32:161][289]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.16-02.27.32:161][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.16-02.27.32:161][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.16-02.27.32:161][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.16-02.27.32:161][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.16-02.27.32:161][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.16-02.27.32:163][289]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.16-02.27.32:183][289]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.16-02.27.32:183][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.16-02.27.32:183][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.16-02.27.32:183][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.16-02.27.32:184][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.06.16-02.27.32:184][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.06.16-02.27.32:185][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.06.16-02.27.32:186][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.06.16-02.27.32:186][289]LogInit: FAudioDevice initialized with ID 13.
+[2024.06.16-02.27.32:186][289]LogAudio: Display: Audio Device (ID: 13) registered with world 'MAP_Debug'.
+[2024.06.16-02.27.32:186][289]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.06.16-02.27.32:212][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.27.32:212][289]LogLoad: Game class is 'GM_Action_C'
+[2024.06.16-02.27.32:213][289]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.06.15-22.27.32
+[2024.06.16-02.27.32:213][289]LogWorld: Bringing up level for play took: 0.000956
+[2024.06.16-02.27.32:215][289]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.06.16-02.27.32:216][289]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.16-02.27.32:228][289]PIE: Server logged in
+[2024.06.16-02.27.32:232][289]PIE: Play in editor total start time 0.103 seconds.
+[2024.06.16-02.27.42:099][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-02.27.42:100][159]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.16-02.27.42:100][159]LogSlate: Window 'MegaManProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.16-02.27.42:105][159]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.27.42:105][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.27.42:105][159]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.16-02.27.42:105][159]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.16-02.27.42:108][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.16-02.27.42:113][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.27.42:129][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.16-02.27.42:129][159]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.06.16-02.27.42:129][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.06.16-02.27.42:130][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.06.16-02.27.42:136][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.06.16-02.27.42:175][161]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.06.16-02.27.49:219][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.06.16-02.27.49:239][494]LogStall: Shutdown...
+[2024.06.16-02.27.49:243][494]LogStall: Shutdown complete.
+[2024.06.16-02.27.49:317][494]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.06.16-02.27.49:317][494]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.27.49:317][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.27.49:362][494]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.27.49:362][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.27.49:402][494]LogSlate: Window 'MegaManProject - Unreal Editor' being destroyed
+[2024.06.16-02.27.49:468][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.06.16-02.27.49:489][494]Cmd: QUIT_EDITOR
+[2024.06.16-02.27.49:489][495]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.06.16-02.27.49:490][495]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.06.16-02.27.49:491][495]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.06.16-02.27.49:491][495]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.06.16-02.27.49:491][495]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.27.49:491][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.27.49:491][495]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.16-02.27.49:491][495]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.16-02.27.49:497][495]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.06.16-02.27.49:503][495]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-02.27.49:503][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-02.27.49:629][495]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.06.16-02.27.49:630][495]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.06.16-02.27.49:630][495]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.06.16-02.27.49:630][495]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.06.16-02.27.50:542][495]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.06.16-02.27.50:542][495]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.06.16-02.27.50:542][495]LogAudio: Display: Audio Device unregistered from world 'MAP_Debug'.
+[2024.06.16-02.27.50:542][495]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.06.16-02.27.50:542][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.16-02.27.50:543][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.16-02.27.50:546][495]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.06.16-02.27.50:546][495]LogAudio: Display: Audio Device Manager Shutdown
+[2024.06.16-02.27.50:546][495]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.06.16-02.27.50:548][495]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.06.16-02.27.50:549][495]LogExit: Preparing to exit.
+[2024.06.16-02.27.50:571][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.50:574][495]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.16-02.27.51:206][495]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.06.16-02.27.51:219][495]LogExit: Editor shut down
+[2024.06.16-02.27.51:220][495]LogExit: Transaction tracking system shut down
+[2024.06.16-02.27.51:335][495]LogExit: Object subsystem successfully closed.
+[2024.06.16-02.27.51:411][495]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.06.16-02.27.52:253][495]MemoryProfiler: Shutdown
+[2024.06.16-02.27.52:253][495]NetworkingProfiler: Shutdown
+[2024.06.16-02.27.52:253][495]LoadingProfiler: Shutdown
+[2024.06.16-02.27.52:253][495]TimingProfiler: Shutdown
+[2024.06.16-02.27.52:440][495]LogOpenImageDenoise: OIDN shutting down
+[2024.06.16-02.27.52:672][495]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.06.16-02.27.52:680][495]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.06.16-02.27.52:680][495]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DFA1B38-4562-9A2C-446A-52A6CB72DC7A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.2-33871570%2B%2B%2BUE5%2BRelease-5.4&UserID=dc358aec4587eba95ef970a48ebcc401%7C8499b50572d7436280fde2e2b3450fe3%7C1fcbecdb-6cd4-4b81-9584-77b4b49fb2a2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.06.16-02.27.52:714][495]RenderDocPlugin: plugin has been unloaded.
+[2024.06.16-02.27.52:717][495]LogXGEController: Cleaning working directory: C:/Users/Max/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.06.16-02.27.52:718][495]LogPakFile: Destroying PakPlatformFile
+[2024.06.16-02.27.52:794][495]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.06.16-02.27.52:817][495]LogExit: Exiting.
+[2024.06.16-02.27.52:834][495]Log file closed, 06/15/24 22:27:52

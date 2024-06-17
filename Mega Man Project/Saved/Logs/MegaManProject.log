@@ -1780,3 +1780,272 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.17-01.39.33:523][ 62]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.06.17-01.39.33:523][ 62]LogContentValidation: Display: Validating asset /Game/Maps/MAP_Debug.MAP_Debug
 [2024.06.17-01.39.33:523][ 62]AssetCheck: /Game/Maps/MAP_Debug Validating asset
+[2024.06.17-01.40.41:808][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-01.40.41:865][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.06.17-01.40.41:874][901]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Debug
+[2024.06.17-01.40.41:874][901]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/MAP_DebugFBFF790949090E7B9002B59C714CADAA.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/MAP_Debug.umap'
+[2024.06.17-01.40.41:880][901]LogFileHelpers: Saving map 'MAP_Debug' took 0.049
+[2024.06.17-01.40.41:886][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.245 ms (total: 1.77 sec)
+[2024.06.17-01.40.41:913][901]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.17-01.40.41:913][901]LogContentValidation: Enabled validators:
+[2024.06.17-01.40.41:913][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.17-01.40.41:913][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.17-01.40.41:913][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.17-01.40.41:913][901]LogContentValidation: Display: Validating asset /Game/Maps/MAP_Debug.MAP_Debug
+[2024.06.17-01.40.41:913][901]AssetCheck: /Game/Maps/MAP_Debug Validating asset
+[2024.06.17-01.40.43:887][135]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.17-01.40.43:898][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.17-01.40.43:898][135]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.17-01.40.43:900][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001762s)
+[2024.06.17-01.40.43:900][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001789s)
+[2024.06.17-01.40.43:916][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.06.17-01.40.43:917][135]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.17-01.40.43:918][135]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2024.06.17-01.40.43:925][135]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.06.17-01.40.43:926][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.17-01.40.43:926][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.17-01.40.43:926][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.17-01.40.43:926][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.17-01.40.43:926][135]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.17-01.40.43:926][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.17-01.40.43:926][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.17-01.40.43:926][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.17-01.40.43:926][135]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.17-01.40.43:926][135]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.17-01.40.43:926][135]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.17-01.40.43:927][135]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.17-01.40.43:948][135]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.17-01.40.43:949][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.17-01.40.43:949][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.17-01.40.43:949][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.17-01.40.43:950][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.06.17-01.40.43:950][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.06.17-01.40.43:951][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.06.17-01.40.43:951][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.06.17-01.40.43:951][135]LogInit: FAudioDevice initialized with ID 8.
+[2024.06.17-01.40.43:951][135]LogAudio: Display: Audio Device (ID: 8) registered with world 'MAP_Debug'.
+[2024.06.17-01.40.43:952][135]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.06.17-01.40.43:954][135]LogLoad: Game class is 'GM_Action_C'
+[2024.06.17-01.40.43:955][135]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.06.16-21.40.43
+[2024.06.17-01.40.43:955][135]LogWorld: Bringing up level for play took: 0.000938
+[2024.06.17-01.40.43:957][135]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.06.17-01.40.43:958][135]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.17-01.40.43:965][135]PIE: Server logged in
+[2024.06.17-01.40.43:966][135]PIE: Play in editor total start time 0.072 seconds.
+[2024.06.17-01.40.53:845][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.17-01.40.53:845][297]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.17-01.40.53:845][297]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-01.40.53:845][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-01.40.53:847][297]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.17-01.40.53:847][297]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.17-01.40.53:849][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.17-01.40.53:853][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-01.40.53:869][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.17-01.40.53:869][297]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.06.17-01.40.53:870][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.06.17-01.40.53:871][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.06.17-01.40.53:876][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.06.17-01.40.53:947][298]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.06.17-01.41.07:297][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-01.41.07:353][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.06.17-01.41.07:361][839]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Debug
+[2024.06.17-01.41.07:361][839]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/MAP_DebugF27FEB2440AF5965D71069954D242BE9.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/MAP_Debug.umap'
+[2024.06.17-01.41.07:367][839]LogFileHelpers: Saving map 'MAP_Debug' took 0.049
+[2024.06.17-01.41.07:374][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.112 ms (total: 1.85 sec)
+[2024.06.17-01.41.07:402][839]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.17-01.41.07:402][839]LogContentValidation: Enabled validators:
+[2024.06.17-01.41.07:402][839]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.17-01.41.07:402][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.17-01.41.07:402][839]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.17-01.41.07:402][839]LogContentValidation: Display: Validating asset /Game/Maps/MAP_Debug.MAP_Debug
+[2024.06.17-01.41.07:402][839]AssetCheck: /Game/Maps/MAP_Debug Validating asset
+[2024.06.17-01.41.13:873][375]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.06.17-01.41.13:880][375]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.06.17-01.41.13:886][375]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.06.17-01.41.13:894][376]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.06.17-01.41.20:688][188]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_FallDetector
+[2024.06.17-01.41.20:694][188]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.06.17-01.41.21:972][338]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector
+[2024.06.17-01.41.23:589][443]LogSlate: Window 'BP_FallDetector' being destroyed
+[2024.06.17-01.41.25:040][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-01.41.25:062][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Props/BP_FallDetector] ([2] browsable assets)...
+[2024.06.17-01.41.25:062][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Props/BP_FallDetector]
+[2024.06.17-01.41.25:064][613]LogSavePackage: Moving output files for package: /Game/Blueprints/Props/BP_FallDetector
+[2024.06.17-01.41.25:064][613]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_FallDetector6B7B1A2048E4F9D2E6388BAE82309C66.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_FallDetector.uasset'
+[2024.06.17-01.41.25:074][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.577 ms (total: 1.89 sec)
+[2024.06.17-01.41.25:100][613]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.17-01.41.25:100][613]LogContentValidation: Enabled validators:
+[2024.06.17-01.41.25:100][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.17-01.41.25:100][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.17-01.41.25:100][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.17-01.41.25:100][613]LogContentValidation: Display: Validating asset /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector
+[2024.06.17-01.41.25:101][613]AssetCheck: /Game/Blueprints/Props/BP_FallDetector Validating asset
+[2024.06.17-01.41.42:389][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-01.41.42:411][657]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Props/BP_FallDetector] ([2] browsable assets)...
+[2024.06.17-01.41.42:411][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Props/BP_FallDetector]
+[2024.06.17-01.41.42:414][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Props/BP_FallDetector
+[2024.06.17-01.41.42:415][657]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_FallDetectorC686E25F4A9E32DD19EBA3B5A9648405.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_FallDetector.uasset'
+[2024.06.17-01.41.42:421][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.636 ms (total: 1.92 sec)
+[2024.06.17-01.41.42:444][657]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.17-01.41.42:444][657]LogContentValidation: Enabled validators:
+[2024.06.17-01.41.42:444][657]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.17-01.41.42:444][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.17-01.41.42:444][657]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.17-01.41.42:444][657]LogContentValidation: Display: Validating asset /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector
+[2024.06.17-01.41.42:445][657]AssetCheck: /Game/Blueprints/Props/BP_FallDetector Validating asset
+[2024.06.17-01.41.44:210][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.06.17-01.41.44:587][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-01.41.44:612][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Props/BP_FallDetector] ([2] browsable assets)...
+[2024.06.17-01.41.44:612][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Props/BP_FallDetector]
+[2024.06.17-01.41.44:615][892]LogSavePackage: Moving output files for package: /Game/Blueprints/Props/BP_FallDetector
+[2024.06.17-01.41.44:616][892]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_FallDetectorF19F7BDF4DB0A947DE7881BBD0CAF146.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_FallDetector.uasset'
+[2024.06.17-01.41.44:625][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.677 ms (total: 1.96 sec)
+[2024.06.17-01.41.44:656][892]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.17-01.41.44:656][892]LogContentValidation: Enabled validators:
+[2024.06.17-01.41.44:656][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.17-01.41.44:656][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.17-01.41.44:656][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.17-01.41.44:656][892]LogContentValidation: Display: Validating asset /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector
+[2024.06.17-01.41.44:656][892]AssetCheck: /Game/Blueprints/Props/BP_FallDetector Validating asset
+[2024.06.17-01.41.53:365][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-01.41.53:383][919]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Props/BP_FallDetector] ([2] browsable assets)...
+[2024.06.17-01.41.53:383][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Props/BP_FallDetector]
+[2024.06.17-01.41.53:386][919]LogSavePackage: Moving output files for package: /Game/Blueprints/Props/BP_FallDetector
+[2024.06.17-01.41.53:387][919]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_FallDetectorEEE0697F47A970993ED923912B2CC520.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_FallDetector.uasset'
+[2024.06.17-01.41.53:394][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.935 ms (total: 1.99 sec)
+[2024.06.17-01.41.53:416][919]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.17-01.41.53:416][919]LogContentValidation: Enabled validators:
+[2024.06.17-01.41.53:416][919]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.17-01.41.53:416][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.17-01.41.53:416][919]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.17-01.41.53:416][919]LogContentValidation: Display: Validating asset /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector
+[2024.06.17-01.41.53:416][919]AssetCheck: /Game/Blueprints/Props/BP_FallDetector Validating asset
+[2024.06.17-01.41.54:014][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.06.17-01.41.54:433][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-01.41.54:461][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Props/BP_FallDetector] ([2] browsable assets)...
+[2024.06.17-01.41.54:461][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Props/BP_FallDetector]
+[2024.06.17-01.41.54:464][ 24]LogSavePackage: Moving output files for package: /Game/Blueprints/Props/BP_FallDetector
+[2024.06.17-01.41.54:464][ 24]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_FallDetector64CFAE924A4DC5A2845372920800E3E6.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_FallDetector.uasset'
+[2024.06.17-01.41.54:472][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.704 ms (total: 2.02 sec)
+[2024.06.17-01.41.54:493][ 24]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.17-01.41.54:493][ 24]LogContentValidation: Enabled validators:
+[2024.06.17-01.41.54:493][ 24]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.17-01.41.54:493][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.17-01.41.54:493][ 24]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.17-01.41.54:493][ 24]LogContentValidation: Display: Validating asset /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector
+[2024.06.17-01.41.54:493][ 24]AssetCheck: /Game/Blueprints/Props/BP_FallDetector Validating asset
+[2024.06.17-01.42.28:498][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-01.42.28:521][967]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Props/BP_FallDetector] ([2] browsable assets)...
+[2024.06.17-01.42.28:521][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Props/BP_FallDetector]
+[2024.06.17-01.42.28:524][967]LogSavePackage: Moving output files for package: /Game/Blueprints/Props/BP_FallDetector
+[2024.06.17-01.42.28:525][967]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_FallDetector554EDBC9449C1C126F418FA2EE4AA0A2.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_FallDetector.uasset'
+[2024.06.17-01.42.28:533][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.903 ms (total: 2.06 sec)
+[2024.06.17-01.42.28:560][967]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.17-01.42.28:560][967]LogContentValidation: Enabled validators:
+[2024.06.17-01.42.28:560][967]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.17-01.42.28:560][967]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.17-01.42.28:560][967]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.17-01.42.28:560][967]LogContentValidation: Display: Validating asset /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector
+[2024.06.17-01.42.28:560][967]AssetCheck: /Game/Blueprints/Props/BP_FallDetector Validating asset
+[2024.06.17-01.42.37:477][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.06.17-01.42.37:881][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-01.42.37:899][ 77]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Props/BP_FallDetector] ([2] browsable assets)...
+[2024.06.17-01.42.37:899][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Props/BP_FallDetector]
+[2024.06.17-01.42.37:903][ 77]LogSavePackage: Moving output files for package: /Game/Blueprints/Props/BP_FallDetector
+[2024.06.17-01.42.37:903][ 77]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_FallDetector9873DF0642D22288D41943B379D6AED8.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_FallDetector.uasset'
+[2024.06.17-01.42.37:909][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.557 ms (total: 2.09 sec)
+[2024.06.17-01.42.37:937][ 77]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.17-01.42.37:937][ 77]LogContentValidation: Enabled validators:
+[2024.06.17-01.42.37:937][ 77]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.17-01.42.37:937][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.17-01.42.37:937][ 77]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.17-01.42.37:937][ 77]LogContentValidation: Display: Validating asset /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector
+[2024.06.17-01.42.37:937][ 77]AssetCheck: /Game/Blueprints/Props/BP_FallDetector Validating asset
+[2024.06.17-01.42.45:427][951]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector_C
+[2024.06.17-01.42.45:427][951]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector_C
+[2024.06.17-01.42.45:428][951]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector as actor: BP_FallDetector_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_FallDetector_C_0
+[2024.06.17-01.42.45:429][951]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector as actor: BP_FallDetector_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_FallDetector_C_0
+[2024.06.17-01.42.46:692][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.06.17-01.42.46:716][ 84]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2024.06.17-01.42.46:721][ 84]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector_C
+[2024.06.17-01.42.46:721][ 84]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector_C
+[2024.06.17-01.42.46:722][ 84]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector as actor: BP_FallDetector_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_FallDetector_C_1
+[2024.06.17-01.42.46:723][ 84]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector as actor: BP_FallDetector_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_FallDetector_C_1
+[2024.06.17-01.42.48:584][297]Cmd: TRANSACTION UNDO
+[2024.06.17-01.42.48:584][297]LogEditorTransaction: Undo Place Objects
+[2024.06.17-01.42.49:789][376]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector_C
+[2024.06.17-01.42.49:789][376]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector_C
+[2024.06.17-01.42.49:791][376]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector as actor: BP_FallDetector_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_FallDetector_C_2
+[2024.06.17-01.42.49:791][376]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector as actor: BP_FallDetector_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_FallDetector_C_2
+[2024.06.17-01.42.51:746][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.06.17-01.42.51:750][563]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2024.06.17-01.42.51:755][563]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector_C
+[2024.06.17-01.42.51:755][563]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector_C
+[2024.06.17-01.42.51:757][563]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector as actor: BP_FallDetector_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_FallDetector_C_3
+[2024.06.17-01.42.51:758][563]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Props/BP_FallDetector.BP_FallDetector as actor: BP_FallDetector_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_FallDetector_C_3
+[2024.06.17-01.43.35:607][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-01.43.35:667][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.17-01.43.35:679][948]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Debug
+[2024.06.17-01.43.35:680][948]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/MAP_DebugE3E6B2694F19FE7C181247A447B357EF.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/MAP_Debug.umap'
+[2024.06.17-01.43.35:686][948]LogFileHelpers: Saving map 'MAP_Debug' took 0.055
+[2024.06.17-01.43.35:693][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.736 ms (total: 2.17 sec)
+[2024.06.17-01.43.35:719][948]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.17-01.43.35:719][948]LogContentValidation: Enabled validators:
+[2024.06.17-01.43.35:719][948]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.17-01.43.35:719][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.17-01.43.35:719][948]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.17-01.43.35:719][948]LogContentValidation: Display: Validating asset /Game/Maps/MAP_Debug.MAP_Debug
+[2024.06.17-01.43.35:719][948]AssetCheck: /Game/Maps/MAP_Debug Validating asset
+[2024.06.17-01.43.41:784][662]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.17-01.43.41:797][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.17-01.43.41:797][662]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.17-01.43.41:799][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001704s)
+[2024.06.17-01.43.41:799][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001729s)
+[2024.06.17-01.43.41:815][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.06.17-01.43.41:817][662]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.17-01.43.41:818][662]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2024.06.17-01.43.41:825][662]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.06.17-01.43.41:825][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.17-01.43.41:825][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.17-01.43.41:825][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.17-01.43.41:825][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.17-01.43.41:825][662]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.17-01.43.41:825][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.17-01.43.41:825][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.17-01.43.41:825][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.17-01.43.41:825][662]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.17-01.43.41:825][662]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.17-01.43.41:825][662]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.17-01.43.41:826][662]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.17-01.43.41:847][662]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.17-01.43.41:847][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.17-01.43.41:847][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.17-01.43.41:847][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.17-01.43.41:848][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.06.17-01.43.41:848][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.06.17-01.43.41:849][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.06.17-01.43.41:849][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.06.17-01.43.41:849][662]LogInit: FAudioDevice initialized with ID 9.
+[2024.06.17-01.43.41:849][662]LogAudio: Display: Audio Device (ID: 9) registered with world 'MAP_Debug'.
+[2024.06.17-01.43.41:850][662]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.06.17-01.43.41:853][662]LogLoad: Game class is 'GM_Action_C'
+[2024.06.17-01.43.41:853][662]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.06.16-21.43.41
+[2024.06.17-01.43.41:853][662]LogWorld: Bringing up level for play took: 0.000890
+[2024.06.17-01.43.41:855][662]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.06.17-01.43.41:856][662]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.06.17-01.43.41:863][662]PIE: Server logged in
+[2024.06.17-01.43.41:864][662]PIE: Play in editor total start time 0.074 seconds.
+[2024.06.17-01.44.25:715][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.17-01.44.25:715][903]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.06.17-01.44.25:716][903]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-01.44.25:716][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-01.44.25:716][903]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.17-01.44.25:716][903]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.17-01.44.25:720][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.17-01.44.25:726][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-01.44.25:743][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.17-01.44.25:744][903]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.06.17-01.44.25:744][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.06.17-01.44.25:745][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.06.17-01.44.25:753][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.06.17-01.44.25:807][904]LogPlayLevel: Display: Destroying online subsystem :Context_16

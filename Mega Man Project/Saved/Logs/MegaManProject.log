@@ -2362,3 +2362,18 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.26-20.42.12:608][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
 [2024.06.26-20.42.12:614][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
 [2024.06.26-20.42.12:683][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.06.26-20.52.12:206][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.06.26-20.52.12:209][557]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.023
+[2024.06.26-20.52.12:210][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Projectiles/BP_Projectile_BASE] ([2] browsable assets)...
+[2024.06.26-20.52.12:210][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectiles/BP_Projectile_BASE]
+[2024.06.26-20.52.12:217][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Projectiles/BP_Projectile_BASE_Auto2
+[2024.06.26-20.52.12:217][557]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/BP_Projectile_BASE_Auto24F43E271472F31D40FED9C8FFBEB31C7.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/Blueprints/Projectiles/BP_Projectile_BASE_Auto2.uasset'
+[2024.06.26-20.52.12:219][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Enemies/Lizard/AnimSequences/Shoot] ([1] browsable assets)...
+[2024.06.26-20.52.12:219][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Enemies/Lizard/AnimSequences/Shoot]
+[2024.06.26-20.52.12:220][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/Enemies/Lizard/AnimSequences/Shoot_Auto2
+[2024.06.26-20.52.12:220][557]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Shoot_Auto224D794384D65339C5149D8BA21892B86.tmp' to '../../../../../../Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Saved/Autosaves/Game/Blueprints/Characters/Enemies/Lizard/AnimSequences/Shoot_Auto2.uasset'
+[2024.06.26-20.52.12:222][557]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.06.26-21.15.35:930][768]LogDerivedDataCache: C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.26-22.15.35:930][566]LogDerivedDataCache: C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.26-23.15.35:931][364]LogDerivedDataCache: C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.27-00.15.35:932][162]LogDerivedDataCache: C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.

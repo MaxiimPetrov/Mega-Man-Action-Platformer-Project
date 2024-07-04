@@ -70,11 +70,15 @@ struct Z_Construct_UFunction_UAsyncRootMovement_AsyncRootMovement_Statics
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "BlueprintInternalUseOnly", "true" },
 		{ "Category", "RootMovement" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n     * Apply root motion movement to passed Character Movement Component\n     */" },
+#endif
 		{ "DisplayName", "Apply Root Motion Constant Force with Callbacks" },
 		{ "Keywords", "RootMovement RootMotion Root Motion Movement" },
 		{ "ModuleRelativePath", "Public/AsyncRootMovement.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Apply root motion movement to passed Character Movement Component" },
+#endif
 		{ "WorldContext", "WorldContext" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_WorldContext_MetaData[] = {
@@ -188,20 +192,32 @@ struct Z_Construct_UClass_UAsyncRootMovement_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n * Enables root based movement with callbacks\n */" },
+#endif
 		{ "IncludePath", "AsyncRootMovement.h" },
 		{ "ModuleRelativePath", "Public/AsyncRootMovement.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Enables root based movement with callbacks" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_OnComplete_MetaData[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/* A delegate called when the async action completes. */" },
+#endif
 		{ "ModuleRelativePath", "Public/AsyncRootMovement.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "A delegate called when the async action completes." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_OnFail_MetaData[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/* A delegate called when the async action fails. */" },
+#endif
 		{ "ModuleRelativePath", "Public/AsyncRootMovement.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "A delegate called when the async action fails." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FMulticastDelegatePropertyParams NewProp_OnComplete;
@@ -209,7 +225,7 @@ struct Z_Construct_UClass_UAsyncRootMovement_Statics
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
-		{ &Z_Construct_UFunction_UAsyncRootMovement_AsyncRootMovement, "AsyncRootMovement" }, // 15643689
+		{ &Z_Construct_UFunction_UAsyncRootMovement_AsyncRootMovement, "AsyncRootMovement" }, // 3709045392
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -262,14 +278,14 @@ UAsyncRootMovement::~UAsyncRootMovement() {}
 // End Class UAsyncRootMovement
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_Gitschi_Documents_Unreal_Projects_MegaActionPlatformer_Build_BuiltPlugins_RootMovement_5_4_HostProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_Max_Desktop_Unreal_Engine_Unreal_Engine_Projects_Mega_Man_Project_Mega_Man_Action_Platformer_Project_Mega_Man_Project_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UAsyncRootMovement, UAsyncRootMovement::StaticClass, TEXT("UAsyncRootMovement"), &Z_Registration_Info_UClass_UAsyncRootMovement, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAsyncRootMovement), 3826353139U) },
+		{ Z_Construct_UClass_UAsyncRootMovement, UAsyncRootMovement::StaticClass, TEXT("UAsyncRootMovement"), &Z_Registration_Info_UClass_UAsyncRootMovement, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAsyncRootMovement), 3452353141U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Gitschi_Documents_Unreal_Projects_MegaActionPlatformer_Build_BuiltPlugins_RootMovement_5_4_HostProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_2303832369(TEXT("/Script/RootMovement"),
-	Z_CompiledInDeferFile_FID_Users_Gitschi_Documents_Unreal_Projects_MegaActionPlatformer_Build_BuiltPlugins_RootMovement_5_4_HostProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Gitschi_Documents_Unreal_Projects_MegaActionPlatformer_Build_BuiltPlugins_RootMovement_5_4_HostProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Max_Desktop_Unreal_Engine_Unreal_Engine_Projects_Mega_Man_Project_Mega_Man_Action_Platformer_Project_Mega_Man_Project_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_3213970956(TEXT("/Script/RootMovement"),
+	Z_CompiledInDeferFile_FID_Users_Max_Desktop_Unreal_Engine_Unreal_Engine_Projects_Mega_Man_Project_Mega_Man_Action_Platformer_Project_Mega_Man_Project_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Max_Desktop_Unreal_Engine_Unreal_Engine_Projects_Mega_Man_Project_Mega_Man_Action_Platformer_Project_Mega_Man_Project_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

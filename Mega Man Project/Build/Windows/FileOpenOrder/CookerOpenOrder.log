@@ -1,0 +1,1376 @@
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 0
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 1
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 2
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 3
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 4
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 5
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 6
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 7
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 8
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 9
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 10
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 11
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 12
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 13
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 14
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 15
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 16
+"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 17
+"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 18
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 19
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 20
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 21
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 22
+"../../../Engine/Content/EngineMeshes/Sphere.ubulk" 23
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 24
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 25
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 26
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 27
+"../../../Engine/Content/EngineResources/Black.uasset" 28
+"../../../Engine/Content/EngineResources/Black.uexp" 29
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 30
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 31
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 32
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 33
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 34
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 35
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 36
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.ubulk" 37
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 38
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 39
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.ubulk" 40
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 41
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 42
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 43
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 44
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 45
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 46
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.ubulk" 47
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 48
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 49
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 50
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 51
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 52
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 53
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 54
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 55
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 56
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.ubulk" 57
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 58
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 59
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.ubulk" 60
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 61
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 62
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.ubulk" 63
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 64
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 65
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.ubulk" 66
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 67
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 68
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.ubulk" 69
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 70
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 71
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.ubulk" 72
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 73
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 74
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 75
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 76
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 77
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 78
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 79
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 80
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 81
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 82
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 83
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 84
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk" 85
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 86
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 87
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 88
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 89
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 90
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 91
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 92
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 93
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 94
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uexp" 95
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.ubulk" 96
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 97
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uexp" 98
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.ubulk" 99
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uasset" 100
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uexp" 101
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 102
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 103
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 104
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 105
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 106
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 107
+"../../../Engine/Content/EngineMaterials/WeightMapArrayPlaceholderTexture.uasset" 108
+"../../../Engine/Content/EngineMaterials/WeightMapArrayPlaceholderTexture.uexp" 109
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 110
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 111
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 112
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 113
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 114
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 115
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 116
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 117
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 118
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uexp" 119
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Materials/M_CustomLitSpriteMaterial.uasset" 120
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Materials/M_CustomLitSpriteMaterial.uexp" 121
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Materials/MI_CustomLitSpriteMaterial.uasset" 122
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Materials/MI_CustomLitSpriteMaterial.uexp" 123
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset" 124
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uexp" 125
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 126
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 127
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 128
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 129
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 130
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 131
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialXPipeline.uasset" 132
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialXPipeline.uexp" 133
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 134
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 135
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFSceneAssetsPipeline.uasset" 136
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFSceneAssetsPipeline.uexp" 137
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFPipeline.uasset" 138
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFPipeline.uexp" 139
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFAssetsPipeline.uasset" 140
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFAssetsPipeline.uexp" 141
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 142
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 143
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_UsdPreviewSurface.uasset" 144
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_UsdPreviewSurface.uexp" 145
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_UniformEDF.uasset" 146
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_UniformEDF.uexp" 147
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TranslucentBSDF.uasset" 148
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TranslucentBSDF.uexp" 149
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_ThinFilmBSDF.uasset" 150
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_ThinFilmBSDF.uexp" 151
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_SurfaceUnlit.uasset" 152
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_SurfaceUnlit.uexp" 153
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Surface.uasset" 154
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Surface.uexp" 155
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_SubsurfaceBSDF.uasset" 156
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_SubsurfaceBSDF.uexp" 157
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_SheenBSDF.uasset" 158
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_SheenBSDF.uexp" 159
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_OrenNayarBSDF.uasset" 160
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_OrenNayarBSDF.uexp" 161
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 162
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 163
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw.uasset" 164
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw.uexp" 165
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 166
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 167
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 168
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uexp" 169
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uasset" 170
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uexp" 171
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uasset" 172
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uexp" 173
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 174
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 175
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uasset" 176
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uexp" 177
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uasset" 178
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uexp" 179
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uasset" 180
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uexp" 181
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uasset" 182
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uexp" 183
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 184
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uexp" 185
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uasset" 186
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uexp" 187
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uasset" 188
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uexp" 189
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uasset" 190
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uexp" 191
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_OpenPBR_Translucent.uasset" 192
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_OpenPBR_Translucent.uexp" 193
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_OpenPBR_Opaque.uasset" 194
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_OpenPBR_Opaque.uexp" 195
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_MeasuredEDF.uasset" 196
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_MeasuredEDF.uexp" 197
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_GeneralizedSchlickBSDF.uasset" 198
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_GeneralizedSchlickBSDF.uexp" 199
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_DielectricBSDF.uasset" 200
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_DielectricBSDF.uexp" 201
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_ConicalEDF.uasset" 202
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_ConicalEDF.uexp" 203
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_ConductorBSDF.uasset" 204
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_ConductorBSDF.uexp" 205
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_BurleyDiffuseBSDF.uasset" 206
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_BurleyDiffuseBSDF.uexp" 207
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_AnisotropicVDF.uasset" 208
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_AnisotropicVDF.uexp" 209
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_AbsorptionVDF.uasset" 210
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_AbsorptionVDF.uexp" 211
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 212
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 213
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 214
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 215
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 216
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 217
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 218
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 219
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 220
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 221
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 222
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 223
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 224
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 225
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 226
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 227
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 229
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 230
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 231
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 232
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 233
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 234
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 235
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 236
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 237
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 238
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 239
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 240
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 241
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 242
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 243
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 244
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 245
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 247
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 248
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 249
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 250
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 251
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 252
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk" 253
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 254
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 255
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk" 256
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 257
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 258
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.ubulk" 259
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 260
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 261
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.ubulk" 262
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 263
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 264
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.ubulk" 265
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 266
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 267
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.ubulk" 268
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 269
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 270
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.ubulk" 271
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 272
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 273
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.ubulk" 274
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 275
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 276
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk" 277
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 278
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 279
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk" 280
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 281
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 282
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk" 283
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 284
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 285
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk" 286
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 287
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 288
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 289
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 290
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 291
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk" 292
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 293
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 294
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk" 295
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 296
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 297
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.ubulk" 298
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 299
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 300
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.ubulk" 301
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 302
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 303
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.ubulk" 304
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 305
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 306
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.ubulk" 307
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 308
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 309
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.ubulk" 310
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 311
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 312
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.ubulk" 313
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 314
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 315
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.ubulk" 316
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 317
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 318
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.ubulk" 319
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 320
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 321
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.ubulk" 322
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 323
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 324
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.ubulk" 325
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 326
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 327
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk" 328
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 329
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 330
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.ubulk" 331
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 332
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 333
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk" 334
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 335
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 336
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk" 337
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 338
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 339
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.ubulk" 340
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 341
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 342
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.ubulk" 343
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 344
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 345
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.ubulk" 346
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 347
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 348
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.ubulk" 349
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 350
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 351
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.ubulk" 352
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 353
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 354
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.ubulk" 355
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 356
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 357
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.ubulk" 358
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 359
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 360
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.ubulk" 361
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 362
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 363
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.ubulk" 364
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 365
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 366
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.ubulk" 367
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 368
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 369
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.ubulk" 370
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 371
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 372
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.ubulk" 373
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 374
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 375
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk" 376
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 377
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 378
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.ubulk" 379
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 380
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 381
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk" 382
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 383
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 384
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk" 385
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 386
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 387
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.ubulk" 388
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 389
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 390
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.ubulk" 391
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 392
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 393
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.ubulk" 394
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 395
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 396
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.ubulk" 397
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 398
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 399
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.ubulk" 400
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 401
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 402
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.ubulk" 403
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 404
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 405
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.ubulk" 406
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 407
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 408
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.ubulk" 409
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 410
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 411
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.ubulk" 412
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 413
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 414
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset" 415
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uexp" 416
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 417
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 418
+"../../../Engine/Plugins/Animation/ACLPlugin/Content/ACLAnimCurveCompressionSettings.uasset" 419
+"../../../Engine/Plugins/Animation/ACLPlugin/Content/ACLAnimCurveCompressionSettings.uexp" 420
+"../../../Engine/Plugins/Animation/ACLPlugin/Content/ACLAnimBoneCompressionSettings.uasset" 421
+"../../../Engine/Plugins/Animation/ACLPlugin/Content/ACLAnimBoneCompressionSettings.uexp" 422
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 423
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 424
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 425
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 426
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 427
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 428
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 429
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 430
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 431
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 432
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.ubulk" 433
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 434
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uexp" 435
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.ubulk" 436
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 437
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uexp" 438
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 439
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 440
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 441
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.ubulk" 442
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 443
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uexp" 444
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.ubulk" 445
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 446
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uexp" 447
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.ubulk" 448
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 449
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uexp" 450
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 451
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uexp" 452
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.ubulk" 453
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 454
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uexp" 455
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.ubulk" 456
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 457
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uexp" 458
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 459
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uexp" 460
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 461
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uexp" 462
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 463
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 464
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 465
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uexp" 466
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.ubulk" 467
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 468
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uexp" 469
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.ubulk" 470
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 471
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uexp" 472
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 473
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uexp" 474
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.ubulk" 475
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 476
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uexp" 477
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.ubulk" 478
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 479
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uexp" 480
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.ubulk" 481
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 482
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uexp" 483
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.ubulk" 484
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 485
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uexp" 486
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.ubulk" 487
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 488
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uexp" 489
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.ubulk" 490
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 491
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uexp" 492
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.ubulk" 493
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 494
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uexp" 495
+"../../../Engine/Content/EngineSounds/Master.uasset" 496
+"../../../Engine/Content/EngineSounds/Master.uexp" 497
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 498
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 499
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 500
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 501
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 502
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 503
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 504
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 505
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 506
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 507
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 508
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 509
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 510
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 511
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 512
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 513
+"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset" 514
+"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uexp" 515
+"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uasset" 516
+"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uexp" 517
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 518
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 519
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 520
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 521
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 522
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 523
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 524
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 525
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 526
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 527
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 528
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 529
+"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uasset" 530
+"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uexp" 531
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 532
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 533
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 534
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 535
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 536
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 537
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 538
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 539
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 540
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 541
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 542
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 543
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 544
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 545
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 546
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 547
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 548
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 549
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 550
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 551
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 552
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 553
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 554
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 555
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 556
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 557
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 558
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 559
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 560
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 561
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 562
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 563
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 564
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 565
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 566
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 567
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 568
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 569
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 570
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 571
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 572
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 573
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 574
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 575
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 576
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 577
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 578
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 579
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 580
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 581
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 582
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 583
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 584
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 585
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 586
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 587
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 588
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 589
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 590
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 591
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 592
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 593
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 594
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 595
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 596
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 597
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 598
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 599
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 600
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 601
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 602
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 603
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 604
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 605
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 606
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 607
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 608
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 609
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 610
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 611
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 612
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 613
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 614
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 615
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 616
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 617
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 618
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 619
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 620
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 621
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 622
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 623
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 624
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 625
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 626
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 627
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 628
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 629
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 630
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 631
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 632
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 633
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 634
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 635
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 636
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 637
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 638
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 639
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 640
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 641
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 642
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 643
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 644
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 645
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 646
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 647
+"../../../Engine/Content/BasicShapes/Sphere.ubulk" 648
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 649
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 650
+"../../../Engine/Content/BasicShapes/Plane.ubulk" 651
+"../../../Engine/Content/BasicShapes/Plane.uasset" 652
+"../../../Engine/Content/BasicShapes/Plane.uexp" 653
+"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 654
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 655
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 656
+"../../../Engine/Content/BasicShapes/Cube.ubulk" 657
+"../../../Engine/Content/BasicShapes/Cube.uasset" 658
+"../../../Engine/Content/BasicShapes/Cube.uexp" 659
+"../../../Engine/Content/BasicShapes/Cone.ubulk" 660
+"../../../Engine/Content/BasicShapes/Cone.uasset" 661
+"../../../Engine/Content/BasicShapes/Cone.uexp" 662
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 663
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 664
+"../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uasset" 665
+"../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uexp" 666
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 667
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 668
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tilesetPadded.ubulk" 669
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tilesetPadded.uasset" 670
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tilesetPadded.uexp" 671
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tileset_TileSet.uasset" 672
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tileset_TileSet.uexp" 673
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tileset-2Padded.ubulk" 674
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tileset-2Padded.uasset" 675
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tileset-2Padded.uexp" 676
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tileset-2_TileSet.uasset" 677
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tileset-2_TileSet.uexp" 678
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Playground.uasset" 679
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Playground.uexp" 680
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tileset.uasset" 681
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tileset.uexp" 682
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tileset-2.uasset" 683
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/tileset-2.uexp" 684
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/back.uasset" 685
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/back.uexp" 686
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/WingFlap_Loop.ubulk" 687
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/WingFlap_Loop.uasset" 688
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/WingFlap_Loop.uexp" 689
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/WingFlap_Loop_Cue.uasset" 690
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/WingFlap_Loop_Cue.uexp" 691
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Latch_Player.ubulk" 692
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Latch_Player.uasset" 693
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Latch_Player.uexp" 694
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Latch_Player_Cue.uasset" 695
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Latch_Player_Cue.uexp" 696
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uasset" 697
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uexp" 698
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uasset" 699
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uexp" 700
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uasset" 701
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uexp" 702
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uasset" 703
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uexp" 704
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Unlit_Body.uasset" 705
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Unlit_Body.uexp" 706
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uasset" 707
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uexp" 708
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Opaque_DS.uasset" 709
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Opaque_DS.uexp" 710
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Opaque.uasset" 711
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Opaque.uexp" 712
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Mask_DS.uasset" 713
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Mask_DS.uexp" 714
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Mask.uasset" 715
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Mask.uexp" 716
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Blend_DS.uasset" 717
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Blend_DS.uexp" 718
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Blend.uasset" 719
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Blend.uexp" 720
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Iridescence.uasset" 721
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Iridescence.uexp" 722
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uasset" 723
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uexp" 724
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uasset" 725
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uexp" 726
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uasset" 727
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uexp" 728
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uasset" 729
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uexp" 730
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uasset" 731
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uexp" 732
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uasset" 733
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uexp" 734
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uasset" 735
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uexp" 736
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uasset" 737
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uexp" 738
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uasset" 739
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uexp" 740
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Transmission_Body.uasset" 741
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Transmission_Body.uexp" 742
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uasset" 743
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uexp" 744
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Transmission_DS.uasset" 745
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Transmission_DS.uexp" 746
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Transmission.uasset" 747
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Transmission.uexp" 748
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uasset" 749
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uexp" 750
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 751
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 752
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uasset" 753
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uexp" 754
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uasset" 755
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uexp" 756
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uasset" 757
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uexp" 758
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_SpecularGlossiness_Body.uasset" 759
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_SpecularGlossiness_Body.uexp" 760
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_SpecularGlossiness.uasset" 761
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_SpecularGlossiness.uexp" 762
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS.uasset" 763
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS.uexp" 764
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque.uasset" 765
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque.uexp" 766
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS.uasset" 767
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS.uexp" 768
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask.uasset" 769
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask.uexp" 770
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS.uasset" 771
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS.uexp" 772
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend.uasset" 773
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend.uexp" 774
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uasset" 775
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uexp" 776
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Sheen_Body.uasset" 777
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Sheen_Body.uexp" 778
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uasset" 779
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uexp" 780
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Opaque_DS.uasset" 781
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Opaque_DS.uexp" 782
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Opaque.uasset" 783
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Opaque.uexp" 784
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Mask_DS.uasset" 785
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Mask_DS.uexp" 786
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Mask.uasset" 787
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Mask.uexp" 788
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Blend_DS.uasset" 789
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Blend_DS.uexp" 790
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Blend.uasset" 791
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Blend.uexp" 792
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Default_Body.uasset" 793
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Default_Body.uexp" 794
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Default.uasset" 795
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Default.uexp" 796
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Opaque_DS.uasset" 797
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Opaque_DS.uexp" 798
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Opaque.uasset" 799
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Opaque.uexp" 800
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Mask_DS.uasset" 801
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Mask_DS.uexp" 802
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Mask.uasset" 803
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Mask.uexp" 804
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Blend_DS.uasset" 805
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Blend_DS.uexp" 806
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Blend.uasset" 807
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Blend.uexp" 808
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 809
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 810
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uasset" 811
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uexp" 812
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_ClearCoat_Body.uasset" 813
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_ClearCoat_Body.uexp" 814
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_ClearCoat.uasset" 815
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_ClearCoat.uexp" 816
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS.uasset" 817
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS.uexp" 818
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque.uasset" 819
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque.uexp" 820
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Mask_DS.uasset" 821
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Mask_DS.uexp" 822
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Mask.uasset" 823
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Mask.uexp" 824
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Blend_DS.uasset" 825
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Blend_DS.uexp" 826
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Blend.uasset" 827
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Blend.uexp" 828
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 829
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 830
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 831
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 832
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 833
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 834
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 835
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 836
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 837
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 838
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 839
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 840
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 841
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 842
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 843
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 844
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 845
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 846
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 847
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 848
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 849
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 850
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 851
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 852
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 853
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 854
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 855
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 856
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 857
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 858
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 859
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 860
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uasset" 861
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uexp" 862
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uasset" 863
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uexp" 864
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uasset" 865
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uexp" 866
+"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uasset" 867
+"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uexp" 868
+"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uasset" 869
+"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uexp" 870
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-hit/Textures/player-shoot-hit.uasset" 871
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-hit/Textures/player-shoot-hit.uexp" 872
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/Textures/player-shoot-charge.ubulk" 873
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/Textures/player-shoot-charge.uasset" 874
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/Textures/player-shoot-charge.uexp" 875
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot/Textures/player-shoot.uasset" 876
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot/Textures/player-shoot.uexp" 877
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/fireball/Textures/fireball.uasset" 878
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/fireball/Textures/fireball.uexp" 879
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/Textures/explosion.ubulk" 880
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/Textures/explosion.uasset" 881
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/Textures/explosion.uexp" 882
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Textures/player.uasset" 883
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Textures/player.uexp" 884
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Textures/lizard.uasset" 885
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Textures/lizard.uexp" 886
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Jump_0_aseprite.uasset" 887
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Jump_0_aseprite.uexp" 888
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/lizard__Jump.uasset" 889
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/lizard__Jump.uexp" 890
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/fly-eye/Textures/fly-eye.uasset" 891
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/fly-eye/Textures/fly-eye.uexp" 892
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Textures/crab.uasset" 893
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Textures/crab.uexp" 894
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/Textures/bat.uasset" 895
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/Textures/bat.uexp" 896
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AS_Player.uasset" 897
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AS_Player.uexp" 898
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Climb_Shoot_0_aseprite.uasset" 899
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Climb_Shoot_0_aseprite.uexp" 900
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Climb_Shoot.uasset" 901
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Climb_Shoot.uexp" 902
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/ClimbShoot.uasset" 903
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/ClimbShoot.uexp" 904
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Climb_1_aseprite.uasset" 905
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Climb_1_aseprite.uexp" 906
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Climb_2_aseprite.uasset" 907
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Climb_2_aseprite.uexp" 908
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Climb_0_aseprite.uasset" 909
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Climb_0_aseprite.uexp" 910
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Climb_3_aseprite.uasset" 911
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Climb_3_aseprite.uexp" 912
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Climb.uasset" 913
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Climb.uexp" 914
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/Climb.uasset" 915
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/Climb.uexp" 916
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_1_aseprite.uasset" 917
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_1_aseprite.uexp" 918
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_0_aseprite.uasset" 919
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_0_aseprite.uexp" 920
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/lizard__Idle.uasset" 921
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/lizard__Idle.uexp" 922
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_4_aseprite.uasset" 923
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_4_aseprite.uexp" 924
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_0_aseprite.uasset" 925
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_0_aseprite.uexp" 926
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_2_aseprite.uasset" 927
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_2_aseprite.uexp" 928
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_3_aseprite.uasset" 929
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_3_aseprite.uexp" 930
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_1_aseprite.uasset" 931
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_1_aseprite.uexp" 932
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/lizard__Shoot.uasset" 933
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/lizard/lizard__Shoot.uexp" 934
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/Lizard/AS_Enemy_Lizard.uasset" 935
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/Lizard/AS_Enemy_Lizard.uexp" 936
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/Lizard/AnimSequences/Shoot.uasset" 937
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/Lizard/AnimSequences/Shoot.uexp" 938
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Components/BPC_Vitality.uasset" 939
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Components/BPC_Vitality.uexp" 940
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/AI/AIC_BASE.uasset" 941
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/AI/AIC_BASE.uexp" 942
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/AI/AIC_Lizard.uasset" 943
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/AI/AIC_Lizard.uexp" 944
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Materials/M_CustomUnlitSpriteMaterial.uasset" 945
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Materials/M_CustomUnlitSpriteMaterial.uexp" 946
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Materials/MI_CustomUnlitSpriteMaterial.uasset" 947
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Materials/MI_CustomUnlitSpriteMaterial.uexp" 948
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Enums/E_Faction.uasset" 949
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Enums/E_Faction.uexp" 950
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_5_aseprite.uasset" 951
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_5_aseprite.uexp" 952
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_1_aseprite.uasset" 953
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_1_aseprite.uexp" 954
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_4_aseprite.uasset" 955
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_4_aseprite.uexp" 956
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_0_aseprite.uasset" 957
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_0_aseprite.uexp" 958
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_2_aseprite.uasset" 959
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_2_aseprite.uexp" 960
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_3_aseprite.uasset" 961
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_3_aseprite.uexp" 962
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Idle.uasset" 963
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Idle.uexp" 964
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/BP_ActionChar_BASE.uasset" 965
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/BP_ActionChar_BASE.uexp" 966
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase.uasset" 967
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase.uexp" 968
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase.uasset" 969
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase.uexp" 970
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase.uasset" 971
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase.uexp" 972
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase.uasset" 973
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase.uexp" 974
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/fireball/fireball__Loop.uasset" 975
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/fireball/fireball__Loop.uexp" 976
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Destroyed_Projectile.ubulk" 977
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Destroyed_Projectile.uasset" 978
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Destroyed_Projectile.uexp" 979
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Destroyed_Projectile_Cue.uasset" 980
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Destroyed_Projectile_Cue.uexp" 981
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite.uasset" 982
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite.uexp" 983
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite.uasset" 984
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite.uexp" 985
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite.uasset" 986
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite.uexp" 987
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite.uasset" 988
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite.uexp" 989
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-hit/player-shoot-hit__Loop.uasset" 990
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-hit/player-shoot-hit__Loop.uexp" 991
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/VFX/BP_VFX_BASE.uasset" 992
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/VFX/BP_VFX_BASE.uexp" 993
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/VFX/BP_VFX_ShotHit.uasset" 994
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/VFX/BP_VFX_ShotHit.uexp" 995
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase.uasset" 996
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase.uexp" 997
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase.uasset" 998
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase.uexp" 999
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase.uasset" 1000
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase.uexp" 1001
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase.uasset" 1002
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase.uexp" 1003
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot/player-shoot_____Loop.uasset" 1004
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot/player-shoot_____Loop.uexp" 1005
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/BP_Projectile_BASE.uasset" 1006
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/BP_Projectile_BASE.uexp" 1007
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Enemy/BP_EnemyProjectile_BASE.uasset" 1008
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Enemy/BP_EnemyProjectile_BASE.uexp" 1009
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Enemy/BP_EnemyProjectile_Lizard.uasset" 1010
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Enemy/BP_EnemyProjectile_Lizard.uexp" 1011
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/Lizard/AnimSequences/Idle.uasset" 1012
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/Lizard/AnimSequences/Idle.uexp" 1013
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/Lizard/ABP_Enemy_Lizard.uasset" 1014
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/Lizard/ABP_Enemy_Lizard.uexp" 1015
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Enemy_Defeat.ubulk" 1016
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Enemy_Defeat.uasset" 1017
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Enemy_Defeat.uexp" 1018
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Enemy_Defeat_Cue.uasset" 1019
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Enemy_Defeat_Cue.uexp" 1020
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite.uasset" 1021
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite.uexp" 1022
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite.uasset" 1023
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite.uexp" 1024
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite.uasset" 1025
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite.uexp" 1026
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite.uasset" 1027
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite.uexp" 1028
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/explosion__Loop.uasset" 1029
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/explosion/explosion__Loop.uexp" 1030
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/VFX/BP_VFX_EnemyDestroyed.uasset" 1031
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/VFX/BP_VFX_EnemyDestroyed.uexp" 1032
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/BP_Enemy_BASE.uasset" 1033
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/BP_Enemy_BASE.uexp" 1034
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shoot_Lizard.ubulk" 1035
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shoot_Lizard.uasset" 1036
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shoot_Lizard.uexp" 1037
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shoot_Lizard_Cue.uasset" 1038
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shoot_Lizard_Cue.uexp" 1039
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/Lizard/BP_Enemy_Lizard.uasset" 1040
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/Lizard/BP_Enemy_Lizard.uexp" 1041
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 1042
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 1043
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 1044
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 1045
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Input/Actions/IA_Jump.uasset" 1046
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Input/Actions/IA_Jump.uexp" 1047
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Input/Actions/IA_Shoot.uasset" 1048
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Input/Actions/IA_Shoot.uexp" 1049
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Input/Actions/IA_Move.uasset" 1050
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Input/Actions/IA_Move.uexp" 1051
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Input/IMC_Action.uasset" 1052
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Input/IMC_Action.uexp" 1053
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shot_Regular.ubulk" 1054
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shot_Regular.uasset" 1055
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shot_Regular.uexp" 1056
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shot_Regular_Cue.uasset" 1057
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shot_Regular_Cue.uexp" 1058
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Hurt_0_aseprite.uasset" 1059
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Hurt_0_aseprite.uexp" 1060
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Hurt_1_aseprite.uasset" 1061
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Hurt_1_aseprite.uexp" 1062
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Hurt.uasset" 1063
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Hurt.uexp" 1064
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/Hurt.uasset" 1065
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/Hurt.uexp" 1066
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/Idle.uasset" 1067
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/Idle.uexp" 1068
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Fall_Shoot_0_aseprite.uasset" 1069
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Fall_Shoot_0_aseprite.uexp" 1070
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Fall_Shoot.uasset" 1071
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Fall_Shoot.uexp" 1072
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/FallShoot.uasset" 1073
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/FallShoot.uexp" 1074
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Footstep_Player.ubulk" 1075
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Footstep_Player.uasset" 1076
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Footstep_Player.uexp" 1077
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Footstep_Player_Cue.uasset" 1078
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Footstep_Player_Cue.uexp" 1079
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_2_aseprite.uasset" 1080
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_2_aseprite.uexp" 1081
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_3_aseprite.uasset" 1082
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_3_aseprite.uexp" 1083
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_1_aseprite.uasset" 1084
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_1_aseprite.uexp" 1085
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_5_aseprite.uasset" 1086
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_5_aseprite.uexp" 1087
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_4_aseprite.uasset" 1088
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_4_aseprite.uexp" 1089
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_0_aseprite.uasset" 1090
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_0_aseprite.uexp" 1091
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Run_Shoot.uasset" 1092
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Run_Shoot.uexp" 1093
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/RunShoot.uasset" 1094
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/RunShoot.uexp" 1095
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite.uasset" 1096
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite.uexp" 1097
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__WallSlide_Shoot.uasset" 1098
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__WallSlide_Shoot.uexp" 1099
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/WallSlideShoot.uasset" 1100
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/WallSlideShoot.uexp" 1101
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__JumpRise_Shoot_0_aseprite.uasset" 1102
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__JumpRise_Shoot_0_aseprite.uexp" 1103
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__JumpRise_Shoot.uasset" 1104
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__JumpRise_Shoot.uexp" 1105
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/JumpRiseShoot.uasset" 1106
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/JumpRiseShoot.uexp" 1107
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__JumpRise_0_aseprite.uasset" 1108
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__JumpRise_0_aseprite.uexp" 1109
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__JumpRise.uasset" 1110
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__JumpRise.uexp" 1111
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/JumpRise.uasset" 1112
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/JumpRise.uexp" 1113
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Slide_0_aseprite.uasset" 1114
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Slide_0_aseprite.uexp" 1115
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Slide.uasset" 1116
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Slide.uexp" 1117
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/Slide.uasset" 1118
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/Slide.uexp" 1119
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_0_aseprite.uasset" 1120
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_0_aseprite.uexp" 1121
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_2_aseprite.uasset" 1122
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_2_aseprite.uexp" 1123
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_1_aseprite.uasset" 1124
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_1_aseprite.uexp" 1125
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Idle_Shoot.uasset" 1126
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Idle_Shoot.uexp" 1127
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/IdleShoot.uasset" 1128
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/IdleShoot.uexp" 1129
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Fall_0_aseprite.uasset" 1130
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Fall_0_aseprite.uexp" 1131
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Fall.uasset" 1132
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Fall.uexp" 1133
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/Fall.uasset" 1134
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/Fall.uexp" 1135
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_4_aseprite.uasset" 1136
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_4_aseprite.uexp" 1137
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_1_aseprite.uasset" 1138
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_1_aseprite.uexp" 1139
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_2_aseprite.uasset" 1140
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_2_aseprite.uexp" 1141
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_3_aseprite.uasset" 1142
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_3_aseprite.uexp" 1143
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_0_aseprite.uasset" 1144
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_0_aseprite.uexp" 1145
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_5_aseprite.uasset" 1146
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__Run_5_aseprite.uexp" 1147
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Run.uasset" 1148
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__Run.uexp" 1149
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/Run.uasset" 1150
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/Run.uexp" 1151
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite.uasset" 1152
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite.uexp" 1153
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__WallSlide.uasset" 1154
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Player/player__WallSlide.uexp" 1155
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/WallSlide.uasset" 1156
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/AnimSequences/WallSlide.uexp" 1157
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/ABP_Player.uasset" 1158
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/ABP_Player.uexp" 1159
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Jump_Player.ubulk" 1160
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Jump_Player.uasset" 1161
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Jump_Player.uexp" 1162
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Jump_Player_Cue.uasset" 1163
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Jump_Player_Cue.uexp" 1164
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Player/BP_PlayerProjectile_BASE.uasset" 1165
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Player/BP_PlayerProjectile_BASE.uexp" 1166
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Player/BP_PlayerProjectile_PartialCharge.uasset" 1167
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Player/BP_PlayerProjectile_PartialCharge.uexp" 1168
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Player_Hit.ubulk" 1169
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Player_Hit.uasset" 1170
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Player_Hit.uexp" 1171
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Player_Hit_Cue.uasset" 1172
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Player_Hit_Cue.uexp" 1173
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Charge_Loop.ubulk" 1174
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Charge_Loop.uasset" 1175
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Charge_Loop.uexp" 1176
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Charge_Loop_Cue.uasset" 1177
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Charge_Loop_Cue.uexp" 1178
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Land_Player.ubulk" 1179
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Land_Player.uasset" 1180
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Land_Player.uexp" 1181
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Land_Player_Cue.uasset" 1182
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Land_Player_Cue.uexp" 1183
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Respawn_Player.ubulk" 1184
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Respawn_Player.uasset" 1185
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Respawn_Player.uexp" 1186
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Respawn_Player_Cue.uasset" 1187
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Respawn_Player_Cue.uexp" 1188
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/UI/square_shadow.uasset" 1189
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/UI/square_shadow.uexp" 1190
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/UI/glassPanel.uasset" 1191
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/UI/glassPanel.uexp" 1192
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/UI/squareGreen.uasset" 1193
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/UI/squareGreen.uexp" 1194
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Widgets/WBP_HealthComponent.uasset" 1195
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Widgets/WBP_HealthComponent.uexp" 1196
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Widgets/WBP_HUD.uasset" 1197
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Widgets/WBP_HUD.uexp" 1198
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_Checkpoint.uasset" 1199
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_Checkpoint.uexp" 1200
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/GM_Action.uasset" 1201
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/GM_Action.uexp" 1202
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Player_Defeat.ubulk" 1203
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Player_Defeat.uasset" 1204
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Player_Defeat.uexp" 1205
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Player_Defeat_Cue.uasset" 1206
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Player_Defeat_Cue.uexp" 1207
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shot_Charged.ubulk" 1208
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shot_Charged.uasset" 1209
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shot_Charged.uexp" 1210
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shot_Charged_Cue.uasset" 1211
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Shot_Charged_Cue.uexp" 1212
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite.uasset" 1213
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite.uexp" 1214
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite.uasset" 1215
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite.uexp" 1216
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite.uasset" 1217
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite.uexp" 1218
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite.uasset" 1219
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite.uexp" 1220
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/player-shoot-charge1.uasset" 1221
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Fx/player-shoot-charge/player-shoot-charge1.uexp" 1222
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Player/BP_PlayerProjectile_FullCharge.uasset" 1223
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Player/BP_PlayerProjectile_FullCharge.uexp" 1224
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Player/BP_PlayerProjectile_Regular.uasset" 1225
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Projectiles/Player/BP_PlayerProjectile_Regular.uexp" 1226
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_CamerRestrictor.uasset" 1227
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_CamerRestrictor.uexp" 1228
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Slide_Player.ubulk" 1229
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Slide_Player.uasset" 1230
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Slide_Player.uexp" 1231
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Slide_Player_Cue.uasset" 1232
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Slide_Player_Cue.uexp" 1233
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uasset" 1234
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Player/BP_Player.uexp" 1235
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_FallDetector.uasset" 1236
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_FallDetector.uexp" 1237
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1238
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1239
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1240
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1241
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1242
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1243
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1244
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1245
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1246
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1247
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1248
+"../../../Engine/Content/EngineSky/SM_SkySphere.ubulk" 1249
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1250
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1251
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 1252
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uexp" 1253
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk" 1254
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset" 1255
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uexp" 1256
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 1257
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uexp" 1258
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 1259
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uexp" 1260
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 1261
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 1262
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 1263
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 1264
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uasset" 1265
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uexp" 1266
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset" 1267
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uexp" 1268
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Materials/MI_ProcGrid.uasset" 1269
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Materials/MI_ProcGrid.uexp" 1270
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_1_aseprite.uasset" 1271
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_1_aseprite.uexp" 1272
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_3_aseprite.uasset" 1273
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_3_aseprite.uexp" 1274
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_2_aseprite.uasset" 1275
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_2_aseprite.uexp" 1276
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_0_aseprite.uasset" 1277
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_0_aseprite.uexp" 1278
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/fly-eye/fly-eye__Idle.uasset" 1279
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/fly-eye/fly-eye__Idle.uexp" 1280
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Detected_FlyEye.ubulk" 1281
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Detected_FlyEye.uasset" 1282
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Detected_FlyEye.uexp" 1283
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Detected_FlyEye_Cue.uasset" 1284
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Detected_FlyEye_Cue.uexp" 1285
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/AI/AIC_Eye.uasset" 1286
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/AI/AIC_Eye.uexp" 1287
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/BP_Enemy_Eye.uasset" 1288
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/BP_Enemy_Eye.uexp" 1289
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.ubulk" 1290
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1291
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 1292
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/_GENERATED/Max/CubeGridToolOutput_C00C091C.ubulk" 1293
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/_GENERATED/Max/CubeGridToolOutput_C00C091C.uasset" 1294
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/_GENERATED/Max/CubeGridToolOutput_C00C091C.uexp" 1295
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/AI/AIC_Crab.uasset" 1296
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/AI/AIC_Crab.uexp" 1297
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_0_ase.uasset" 1298
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_0_ase.uexp" 1299
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_3_ase.uasset" 1300
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_3_ase.uexp" 1301
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_1_ase.uasset" 1302
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_1_ase.uexp" 1303
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_2_ase.uasset" 1304
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_2_ase.uexp" 1305
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/crab__Idle.uasset" 1306
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/crab__Idle.uexp" 1307
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Footstep_Crab.ubulk" 1308
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Footstep_Crab.uasset" 1309
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Footstep_Crab.uexp" 1310
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Footstep_Crab_Cue.uasset" 1311
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Audio/SFX/Footstep_Crab_Cue.uexp" 1312
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_3_ase.uasset" 1313
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_3_ase.uexp" 1314
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_1_ase.uasset" 1315
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_1_ase.uexp" 1316
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_0_ase.uasset" 1317
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_0_ase.uexp" 1318
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_4_ase.uasset" 1319
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_4_ase.uexp" 1320
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_2_ase.uasset" 1321
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_2_ase.uexp" 1322
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_5_ase.uasset" 1323
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_5_ase.uexp" 1324
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/crab__Walk.uasset" 1325
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/crab/crab__Walk.uexp" 1326
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/BP_Enemy_Crab.uasset" 1327
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/BP_Enemy_Crab.uexp" 1328
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_1_ase.uasset" 1329
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_1_ase.uexp" 1330
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_3_ase.uasset" 1331
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_3_ase.uexp" 1332
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_4_ase.uasset" 1333
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_4_ase.uexp" 1334
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_2_ase.uasset" 1335
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_2_ase.uexp" 1336
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_0_ase.uasset" 1337
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_0_ase.uexp" 1338
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/bat__Idle.uasset" 1339
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Characters/Enemies/bat/bat__Idle.uexp" 1340
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/BP_Enemy_Bat.uasset" 1341
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Characters/Enemies/BP_Enemy_Bat.uexp" 1342
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uasset" 1343
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uexp" 1344
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/MAP_Debug.uexp" 1345
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/MAP_Debug.umap" 1346
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/backPadded.ubulk" 1347
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/backPadded.uasset" 1348
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/backPadded.uexp" 1349
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/back_TileSet.uasset" 1350
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/back_TileSet.uexp" 1351
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Filler_1.uasset" 1352
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Filler_1.uexp" 1353
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Filler_2.uasset" 1354
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Filler_2.uexp" 1355
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Stage_1.uasset" 1356
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Stage_1.uexp" 1357
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Stage_2.uasset" 1358
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Stage_2.uexp" 1359
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Stage_3.uasset" 1360
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Stage_3.uexp" 1361
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Stage_4.uasset" 1362
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Stage_4.uexp" 1363
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Stage_5.uasset" 1364
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/PaperAssets/Environment/TM_Stage_5.uexp" 1365
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Widgets/WBP_Clear.uasset" 1366
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Widgets/WBP_Clear.uexp" 1367
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_WinDetector.uasset" 1368
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Blueprints/Props/BP_WinDetector.uexp" 1369
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/MAP_2DStage.uexp" 1370
+"C:/Users/Max/Desktop/Unreal Engine/Unreal Engine Projects/Mega Man Project/Mega-Man-Action-Platformer-Project/Mega Man Project/Content/Maps/MAP_2DStage.umap" 1371
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1372
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1373
+"../../../Engine/Content/Maps/Entry.uexp" 1374
+"../../../Engine/Content/Maps/Entry.umap" 1375

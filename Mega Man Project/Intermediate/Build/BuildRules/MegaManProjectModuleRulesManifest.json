@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Max\\Desktop\\Unreal Engine\\Unreal Engine Projects\\Mega Man Project\\Mega-Man-Action-Platformer-Project\\Mega Man Project\\Plugins\\RootMovement\\Source\\RootMovement\\RootMovement.Build.cs",
+		"C:\\Users\\Max\\Desktop\\Unreal Engine\\Unreal Engine Projects\\Mega Man Project\\Mega-Man-Action-Platformer-Project\\Mega Man Project\\Intermediate\\Source\\MegaManProject.Build.cs",
+		"C:\\Users\\Max\\Desktop\\Unreal Engine\\Unreal Engine Projects\\Mega Man Project\\Mega-Man-Action-Platformer-Project\\Mega Man Project\\Intermediate\\Source\\MegaManProject.Target.cs",
+		"C:\\Users\\Max\\Desktop\\Unreal Engine\\Unreal Engine Projects\\Mega Man Project\\Mega-Man-Action-Platformer-Project\\Mega Man Project\\Intermediate\\Source\\MegaManProjectClient.Target.cs",
+		"C:\\Users\\Max\\Desktop\\Unreal Engine\\Unreal Engine Projects\\Mega Man Project\\Mega-Man-Action-Platformer-Project\\Mega Man Project\\Intermediate\\Source\\MegaManProjectEditor.Target.cs",
+		"C:\\Users\\Max\\Desktop\\Unreal Engine\\Unreal Engine Projects\\Mega Man Project\\Mega-Man-Action-Platformer-Project\\Mega Man Project\\Intermediate\\Source\\MegaManProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}

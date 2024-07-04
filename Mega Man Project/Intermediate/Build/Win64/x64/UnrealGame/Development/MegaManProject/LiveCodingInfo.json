@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MegaManProject.cpp.obj": [
+			"MegaManProject.cpp.obj"
+		]
+	}
+}

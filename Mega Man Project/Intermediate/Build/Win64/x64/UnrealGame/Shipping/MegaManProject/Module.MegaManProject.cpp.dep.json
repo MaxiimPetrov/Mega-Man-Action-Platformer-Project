@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\max\\desktop\\unreal engine\\unreal engine projects\\mega man project\\mega-man-action-platformer-project\\mega man project\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\megamanproject\\module.megamanproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\max\\desktop\\unreal engine\\unreal engine projects\\mega man project\\mega-man-action-platformer-project\\mega man project\\intermediate\\build\\win64\\x64\\megamanproject\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\max\\desktop\\unreal engine\\unreal engine projects\\mega man project\\mega-man-action-platformer-project\\mega man project\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\megamanproject\\definitions.megamanproject.h",
+            "c:\\users\\max\\desktop\\unreal engine\\unreal engine projects\\mega man project\\mega-man-action-platformer-project\\mega man project\\intermediate\\source\\megamanproject.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

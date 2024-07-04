@@ -41,11 +41,15 @@ struct Z_Construct_UFunction_URootMovementLibrary_ApplyRootMotionConstantForce_S
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "RootMovement" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n     * Apply root motion movement to passed Character Movement Component\n     */" },
+#endif
 		{ "DisplayName", "Apply Root Motion Constant Force" },
 		{ "Keywords", "RootMovement RootMotion Root Motion Movement" },
 		{ "ModuleRelativePath", "Public/RootMovementLibrary.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Apply root motion movement to passed Character Movement Component" },
+#endif
 		{ "WorldContext", "WorldContext" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_WorldContext_MetaData[] = {
@@ -156,14 +160,16 @@ struct Z_Construct_UClass_URootMovementLibrary_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n *\n */" },
+#endif
 		{ "IncludePath", "RootMovementLibrary.h" },
 		{ "ModuleRelativePath", "Public/RootMovementLibrary.h" },
 	};
 #endif // WITH_METADATA
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
-		{ &Z_Construct_UFunction_URootMovementLibrary_ApplyRootMotionConstantForce, "ApplyRootMotionConstantForce" }, // 2088433288
+		{ &Z_Construct_UFunction_URootMovementLibrary_ApplyRootMotionConstantForce, "ApplyRootMotionConstantForce" }, // 1933651868
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -209,14 +215,14 @@ URootMovementLibrary::~URootMovementLibrary() {}
 // End Class URootMovementLibrary
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_Gitschi_Documents_Unreal_Projects_MegaActionPlatformer_Build_BuiltPlugins_RootMovement_5_4_HostProject_Plugins_RootMovement_Source_RootMovement_Public_RootMovementLibrary_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_Max_Desktop_Unreal_Engine_Unreal_Engine_Projects_Mega_Man_Project_Mega_Man_Action_Platformer_Project_Mega_Man_Project_Plugins_RootMovement_Source_RootMovement_Public_RootMovementLibrary_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_URootMovementLibrary, URootMovementLibrary::StaticClass, TEXT("URootMovementLibrary"), &Z_Registration_Info_UClass_URootMovementLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(URootMovementLibrary), 2033380176U) },
+		{ Z_Construct_UClass_URootMovementLibrary, URootMovementLibrary::StaticClass, TEXT("URootMovementLibrary"), &Z_Registration_Info_UClass_URootMovementLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(URootMovementLibrary), 806027376U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Gitschi_Documents_Unreal_Projects_MegaActionPlatformer_Build_BuiltPlugins_RootMovement_5_4_HostProject_Plugins_RootMovement_Source_RootMovement_Public_RootMovementLibrary_h_2445694034(TEXT("/Script/RootMovement"),
-	Z_CompiledInDeferFile_FID_Users_Gitschi_Documents_Unreal_Projects_MegaActionPlatformer_Build_BuiltPlugins_RootMovement_5_4_HostProject_Plugins_RootMovement_Source_RootMovement_Public_RootMovementLibrary_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Gitschi_Documents_Unreal_Projects_MegaActionPlatformer_Build_BuiltPlugins_RootMovement_5_4_HostProject_Plugins_RootMovement_Source_RootMovement_Public_RootMovementLibrary_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Max_Desktop_Unreal_Engine_Unreal_Engine_Projects_Mega_Man_Project_Mega_Man_Action_Platformer_Project_Mega_Man_Project_Plugins_RootMovement_Source_RootMovement_Public_RootMovementLibrary_h_122958281(TEXT("/Script/RootMovement"),
+	Z_CompiledInDeferFile_FID_Users_Max_Desktop_Unreal_Engine_Unreal_Engine_Projects_Mega_Man_Project_Mega_Man_Action_Platformer_Project_Mega_Man_Project_Plugins_RootMovement_Source_RootMovement_Public_RootMovementLibrary_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Max_Desktop_Unreal_Engine_Unreal_Engine_Projects_Mega_Man_Project_Mega_Man_Action_Platformer_Project_Mega_Man_Project_Plugins_RootMovement_Source_RootMovement_Public_RootMovementLibrary_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration
